@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "input-use"
+version = "0.1.0"
+description = "Code for When Do Biological Reasoning Models Use Their Biological Inputs?"
+requires-python = ">=3.10"
+# The linear probes are sensitive to the solver: scikit-learn 1.5.2 moves the pooled protein
+# within-family AUROC by 0.02. Pinned to the versions the reported numbers were produced with.
+dependencies = [
+    "numpy>=2.5,<3", "scipy>=1.18,<2", "pandas", "scikit-learn==1.9.0",
+    # the paper figures were drawn with matplotlib 3.9.2; the layout checks of two figure scripts
+    # measure rendered text and fail under 3.11
+    "matplotlib==3.9.2", "seaborn",
+    "anndata", "scanpy",
+    "requests", "pyarrow",
+]
+
+[project.optional-dependencies]
+# Each evaluated model runs inside its own environment. These extras cover the scorers and probes
+# in this package only.
+scoring = ["cafaeval", "tqdm", "rouge-score"]
+probes = ["torch"]
+
+[tool.setuptools.packages.find]
+include = ["input_use*"]

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+input_use/data/*.obo
+results/
+outputs/

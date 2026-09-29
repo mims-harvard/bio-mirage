@@ -116,7 +116,7 @@ BioReason records are stored as `records_sft.jsonl` and `records_rl.jsonl`. Othe
 are reviewed human proteins from UniProt with InterPro and GO annotations, five single cell atlases
 from CELLxGENE and GEO `GSE84133` and `GSE280502`, and the Cell Ontology.
 
-## Reproducing each result
+## Results
 
 Run every command from the repository root. Scripts read model outputs from `INPUT_USE_RESULTS_DIR`
 and write to `INPUT_USE_OUTPUT_DIR` (default `outputs/`): figures to `outputs/figures/`, everything
@@ -136,6 +136,7 @@ figure is drawn with no interval.
 | Appendix, predicted base pairs for the 257 bp auxiliary condition | `python figures/auxiliary_supervision_matrices.py` |
 | Appendix, BioReason-Pro evidence conflicts on GO NOT pairs | `python figures/go_not_conflicts.py` |
 | Appendix, genes referenced in C2S-Scale rationales | `python figures/rationale_genes.py` |
+| Figs. 2f and 3e, CellWhisperer | see [`input_use/models/cellwhisperer_driver/README.md`](input_use/models/cellwhisperer_driver/README.md) |
 | Per-query disease prediction accuracy and intervals | `python analysis/dna_per_query_accuracy.py`, `analysis/dna_per_query_text_conditions.py` |
 | Answer and GO set change rates | `python analysis/answer_change_rates.py` |
 | Within-family protein probe | `python analysis/protein_family_probe.py`, then `analysis/protein_family_table.py` |
@@ -150,7 +151,7 @@ figures were drawn with matplotlib 3.9.2 and numpy 1.26.4. The layout checks in
 `figures/reasoning_traces.py` and `figures/auxiliary_supervision_main.py` measure rendered text and
 fail under matplotlib 3.11, and the figures that read parquet files need `pyarrow`.
 
-## Auxiliary supervision
+### Auxiliary supervision
 
     python experiments/auxiliary_supervision/export_257bp_windows.py     # 257 bp windows around the edit
     python experiments/auxiliary_supervision/export_ref_var_target.py    # adds the ref>var target line
@@ -161,25 +162,6 @@ fail under matplotlib 3.11, and the figures that read parquet files need `pyarro
     python experiments/auxiliary_supervision/evaluate_generation.py --ckpt <checkpoint> --data <export> \
         --truncate-per-side 0 --conditions wt,same,shuffle,swap --seed 11
     python experiments/auxiliary_supervision/score_seeds.py
-
-## CellWhisperer
-
-The CellWhisperer numbers of Figs. 2f and 3e are computed on the 4,846 C2S-Scale cells by four
-scripts in `input_use/models/cellwhisperer_driver/`, run in the environments of the CellWhisperer
-repository. Set `INPUT_USE_CELLWHISPERER_REPO` to that checkout (default `cellwhisperer` under
-`INPUT_USE_MODELS_ROOT`), with its released CLIP checkpoint, chat checkpoints and Geneformer files
-in place. Atlases are read from `INPUT_USE_DATA_DIR/prepped/<atlas>.h5ad` and the C2S-Scale question
-sets from `single_cell/c2s_scale/deg_removal/` under `INPUT_USE_RESULTS_DIR`. Outputs go to
-`single_cell/cellwhisperer/` under `INPUT_USE_RESULTS_DIR`.
-
-    python input_use/models/cellwhisperer_driver/build_cells.py          # pixi env, CPU: cells and pairs
-    python input_use/models/cellwhisperer_driver/embed_cells.py          # pixi env, GPU: intact and shuffled Z_CW
-    python input_use/models/cellwhisperer_driver/score_llm.py --atlas <atlas> --task expA --model default
-    python input_use/models/cellwhisperer_driver/score_llm.py --atlas <atlas> --task expB --model default
-    python input_use/models/cellwhisperer_driver/score_llm.py --atlas <atlas> --task textgate --model base
-                                                                         # LLaVA env, GPU, per atlas
-    python input_use/models/cellwhisperer_driver/analyze.py              # pixi env, CPU: analysis_default/results.json
-    python figures/perturbations_and_conflicts.py                        # draws the panels
 
 ## Contact
 

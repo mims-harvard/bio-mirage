@@ -8,7 +8,7 @@
 * Sham Kakade
 * Marinka Zitnik
 
-[Preprint]()
+[Preprint](https://arxiv.org/abs/2610.00898) | [Website](https://zitniklab.hms.harvard.edu/biomirage)
 
 Biological reasoning models use post-training to connect a large language model to biological
 inputs, which include representations from a biological foundation model and biological text such
@@ -173,13 +173,15 @@ The code in this package is licensed under the MIT License.
 
 ## Citation
 
-If you use this code in your research, please cite the following [preprint]():
+If you use this code in your research, please cite the following [preprint](https://arxiv.org/abs/2610.00898):
 ```
-@article{fang2026biological,
-  title={When Do Biological Reasoning Models Use Their Biological Inputs?},
-  author={Fang, Ada and Thoduguli, Nikitha and Fesser, Lukas and Zhang, Hanlin and Kakade, Sham and Zitnik, Marinka},
-  journal={Preprint},
-  url={},
-  year={2026}
+@misc{fang2026biologicalreasoningmodelsuse,
+      title={When Do Biological Reasoning Models Use Their Biological Inputs?}, 
+      author={Ada Fang and Nikitha Thoduguli and Lukas Fesser and Hanlin Zhang and Sham M. Kakade and Marinka Zitnik},
+      year={2026},
+      eprint={2610.00898},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.00898}, 
 }
 ```

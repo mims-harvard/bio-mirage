@@ -57,7 +57,7 @@ Paths are environment variables, read in `input_use/core/config.py`:
 | --- | --- | --- |
 | `INPUT_USE_RESULTS_DIR` | released model outputs, laid out as below | `results/` in this repository |
 | `INPUT_USE_OUTPUT_DIR` | figures and analysis outputs | `outputs/` |
-| `INPUT_USE_DATA_DIR` | ontologies, reference annotations, atlases, the KEGG split CSVs (`kegg/`) | `input_use/data/` |
+| `INPUT_USE_DATA_DIR` | ontologies, reference annotations, atlases, the KEGG split CSVs (`kegg/`, built by `data/kegg_network_split/build_network_split.py`) | `input_use/data/` |
 | `INPUT_USE_MODELS_ROOT` | checkouts of the evaluated models | the directory that contains this repository |
 | `INPUT_USE_DNA_REPO`, `INPUT_USE_BRP_REPO`, `INPUT_USE_CELLWHISPERER_REPO` | one model checkout each | `BioReason`, `BioReason-Pro`, `cellwhisperer` under `INPUT_USE_MODELS_ROOT` |
 | `INPUT_USE_HOME` | the `input_use` package directory | located from `config.py` |

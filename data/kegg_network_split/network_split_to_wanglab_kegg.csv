@@ -1,0 +1,1450 @@
+network_split,network_row,wanglab_kegg_split,wanglab_kegg_row,answer
+train,0,train,0,cushing syndrome
+train,1,train,1,parkinson's disease
+train,2,train,2,amyotrophic lateral sclerosis
+train,3,train,4,cushing syndrome
+train,4,train,5,parkinson's disease
+train,5,train,7,creutzfeldt-jakob disease
+train,6,train,9,alzheimer's disease
+train,7,train,10,parkinson's disease
+train,8,train,11,alzheimer's disease
+train,9,train,13,parkinson's disease
+train,10,train,14,colorectal cancer
+train,11,train,15,thyroid dyshormonogenesis
+train,12,train,16,pancreatic ductal adenocarcinoma
+train,13,train,17,gaucher disease
+train,14,train,19,amyotrophic lateral sclerosis
+train,15,train,20,von hippel-lindau syndrome
+train,16,train,21,alzheimer's disease
+train,17,train,23,glioblastoma multiforme
+train,18,train,24,melanoma
+train,19,train,25,parkinson's disease
+train,20,train,26,amyotrophic lateral sclerosis
+train,21,train,28,primary aldosteronism
+train,22,train,31,parkinson's disease
+train,23,train,33,gaucher disease
+train,24,train,34,parkinson's disease
+train,25,train,35,colorectal cancer
+train,26,train,36,prion disease
+train,27,train,37,gaucher disease
+train,28,train,40,amyotrophic lateral sclerosis
+train,29,train,41,basal cell carcinoma
+train,30,train,42,alzheimer's disease
+train,31,train,43,alzheimer's disease
+train,32,train,44,hepatocellular carcinoma
+train,33,train,45,pituitary adenoma
+train,34,train,46,alzheimer's disease
+train,35,train,47,parkinson's disease
+train,36,train,48,clear cell renal cell carcinoma
+train,37,train,49,melanoma
+train,38,train,51,alzheimer's disease
+train,39,train,52,amyotrophic lateral sclerosis
+train,40,train,54,colorectal cancer
+train,41,train,57,parkinson's disease
+train,42,train,58,alzheimer's disease
+train,43,train,60,parkinson's disease
+train,44,train,61,cushing syndrome
+train,45,train,62,colorectal cancer
+train,46,train,63,n-acetylglutamate synthase deficiency
+train,47,train,64,spinocerebellar ataxia
+train,48,train,65,amyotrophic lateral sclerosis
+train,49,train,66,melanoma
+train,50,train,67,parkinson's disease
+train,51,train,68,spinocerebellar ataxia
+train,52,train,69,spinocerebellar ataxia
+train,53,train,70,papillary renal cell carcinoma
+train,54,train,71,prion disease
+train,55,train,72,spinocerebellar ataxia
+train,56,train,76,non-small cell lung cancer
+train,57,train,77,cushing syndrome
+train,58,train,78,amyotrophic lateral sclerosis
+train,59,train,79,parkinson's disease
+train,60,train,80,creutzfeldt-jakob disease
+train,61,train,81,parkinson's disease
+train,62,train,83,cushing syndrome
+train,63,train,84,melanoma
+train,64,train,86,alzheimer's disease
+train,65,train,87,thyroid cancer
+train,66,train,88,acute myeloid leukemia
+train,67,train,89,non-small cell lung cancer
+train,68,train,90,lesch-nyhan syndrome
+train,69,train,91,parkinson's disease
+train,70,train,92,glioblastoma multiforme
+train,71,train,93,von hippel-lindau syndrome
+train,72,train,94,methylmalonic aciduria and homocystinuria
+train,73,train,96,parkinson's disease
+train,74,train,97,alzheimer's disease
+train,75,train,98,spinocerebellar ataxia
+train,76,train,99,prion disease
+train,77,train,100,parkinson's disease
+train,78,train,101,parkinson's disease
+train,79,train,102,amyotrophic lateral sclerosis
+train,80,train,103,parkinson's disease
+train,81,train,105,prion disease
+train,82,train,106,gaucher disease
+train,83,train,108,multiple endocrine neoplasia type 1
+train,84,train,109,parkinson's disease
+train,85,train,110,alzheimer's disease
+train,86,train,111,parkinson's disease
+train,87,train,112,alzheimer's disease
+train,88,train,113,sphingolipidoses
+train,89,train,114,cushing syndrome
+train,90,train,115,colorectal cancer
+train,91,train,116,melanoma
+train,92,train,117,spinocerebellar ataxia
+train,93,train,118,alzheimer's disease
+train,94,train,120,alzheimer's disease
+train,95,train,121,amyotrophic lateral sclerosis
+train,96,train,122,non-small cell lung cancer
+train,97,train,124,spinocerebellar ataxia
+train,98,train,125,spinocerebellar ataxia
+train,99,train,127,spinocerebellar ataxia
+train,100,train,128,amyotrophic lateral sclerosis
+train,101,train,129,spinocerebellar ataxia
+train,102,train,130,cushing syndrome
+train,103,train,132,alzheimer's disease
+train,104,train,133,colorectal cancer
+train,105,train,134,alzheimer's disease
+train,106,train,135,prion disease
+train,107,train,136,melanoma
+train,108,train,137,cushing syndrome
+train,109,train,138,huntington's disease
+train,110,train,139,parkinson's disease
+train,111,train,140,robinow syndrome
+train,112,train,141,melanoma
+train,113,train,142,creutzfeldt-jakob disease
+train,114,train,143,parkinson's disease
+train,115,train,144,non-small cell lung cancer
+train,116,train,145,alzheimer's disease
+train,117,train,146,spinocerebellar ataxia
+train,118,train,147,acute myeloid leukemia
+train,119,train,149,alzheimer's disease
+train,120,train,150,acute myeloid leukemia
+train,121,train,151,parkinson's disease
+train,122,train,153,amyotrophic lateral sclerosis
+train,123,train,154,glioblastoma multiforme
+train,124,train,155,amyotrophic lateral sclerosis
+train,125,train,156,thyroid dyshormonogenesis
+train,126,train,157,non-small cell lung cancer
+train,127,train,158,non-small cell lung cancer
+train,128,train,159,parkinson's disease
+train,129,train,160,alzheimer's disease
+train,130,train,161,acute myeloid leukemia
+train,131,train,163,gaucher disease
+train,132,train,164,hepatocellular carcinoma
+train,133,train,165,spinocerebellar ataxia
+train,134,train,167,alzheimer's disease
+train,135,train,169,papillary thyroid carcinoma
+train,136,train,170,acute myeloid leukemia
+train,137,train,171,pancreatic ductal adenocarcinoma
+train,138,train,172,huntington's disease
+train,139,train,173,parkinson's disease
+train,140,train,174,cushing syndrome
+train,141,train,175,primary aldosteronism
+train,142,train,177,parkinson's disease
+train,143,train,178,spinocerebellar ataxia
+train,144,train,179,papillary renal cell carcinoma
+train,145,train,181,lesch-nyhan syndrome
+train,146,train,182,amyotrophic lateral sclerosis
+train,147,train,183,parkinson's disease
+train,148,train,184,alzheimer's disease
+train,149,train,185,colorectal cancer
+train,150,train,186,melanoma
+train,151,train,187,alzheimer's disease
+train,152,train,189,alzheimer's disease
+train,153,train,190,amyotrophic lateral sclerosis
+train,154,train,194,spinocerebellar ataxia
+train,155,train,197,pancreatic ductal adenocarcinoma
+train,156,train,198,parkinson's disease
+train,157,train,199,creutzfeldt-jakob disease
+train,158,train,200,gaucher disease
+train,159,train,201,melanoma
+train,160,train,204,parkinson's disease
+train,161,train,205,colorectal cancer
+train,162,train,206,cushing syndrome
+train,163,train,208,parkinson's disease
+train,164,train,209,amyotrophic lateral sclerosis
+train,165,train,210,urothelial carcinoma
+train,166,train,211,spinocerebellar ataxia
+train,167,train,212,parkinson's disease
+train,168,train,213,hepatocellular carcinoma
+train,169,train,214,alzheimer's disease
+train,170,train,215,renal cell carcinoma
+train,171,train,216,spinocerebellar ataxia
+train,172,train,218,alzheimer's disease
+train,173,train,219,huntington's disease
+train,174,train,220,prion disease
+train,175,train,221,lesch-nyhan syndrome
+train,176,train,222,prion disease
+train,177,train,223,renal cell carcinoma
+train,178,train,224,alzheimer's disease
+train,179,train,225,alzheimer's disease
+train,180,train,226,creutzfeldt-jakob disease
+train,181,train,227,spinocerebellar ataxia
+train,182,train,228,spinocerebellar ataxia
+train,183,train,229,creutzfeldt-jakob disease
+train,184,train,230,non-small cell lung cancer
+train,185,train,231,colorectal cancer
+train,186,train,232,prion disease
+train,187,train,233,acute myeloid leukemia
+train,188,train,234,parkinson's disease
+train,189,train,237,huntington's disease
+train,190,train,238,spinocerebellar ataxia
+train,191,train,239,amyotrophic lateral sclerosis
+train,192,train,240,melanoma
+train,193,train,242,alzheimer's disease
+train,194,train,243,primary aldosteronism
+train,195,train,244,amyotrophic lateral sclerosis
+train,196,train,246,amyotrophic lateral sclerosis
+train,197,train,247,spinocerebellar ataxia
+train,198,train,248,amyotrophic lateral sclerosis
+train,199,train,249,alzheimer's disease
+train,200,train,251,parkinson's disease
+train,201,train,252,parkinson's disease
+train,202,train,253,alzheimer's disease
+train,203,train,254,spinocerebellar ataxia
+train,204,train,255,gaucher disease
+train,205,train,256,parkinson's disease
+train,206,train,257,basal cell carcinoma
+train,207,train,258,hepatocellular carcinoma
+train,208,train,259,amyotrophic lateral sclerosis
+train,209,train,260,spinocerebellar ataxia
+train,210,train,261,parkinson's disease
+train,211,train,263,gastric cancer
+train,212,train,264,pancreatic ductal adenocarcinoma
+train,213,train,266,huntington's disease
+train,214,train,267,non-small cell lung cancer
+train,215,train,268,parkinson's disease
+train,216,train,269,acute myeloid leukemia
+train,217,train,270,parkinson's disease
+train,218,train,271,adenine phosphoribosyltransferase deficiency
+train,219,train,272,colorectal cancer
+train,220,train,275,amyotrophic lateral sclerosis
+train,221,train,277,amyotrophic lateral sclerosis
+train,222,train,278,pancreatic ductal adenocarcinoma
+train,223,train,279,amyotrophic lateral sclerosis
+train,224,train,280,creutzfeldt-jakob disease
+train,225,train,282,parkinson's disease
+train,226,train,283,acute myeloid leukemia
+train,227,train,285,colorectal cancer
+train,228,train,286,parkinson's disease
+train,229,train,288,thyroid dyshormonogenesis
+train,230,train,289,colorectal cancer
+train,231,train,290,parkinson's disease
+train,232,train,291,amyotrophic lateral sclerosis
+train,233,train,292,huntington's disease
+train,234,train,293,acute myeloid leukemia
+train,235,train,294,lesch-nyhan syndrome
+train,236,train,295,gastric cancer
+train,237,train,296,chronic myeloid leukemia
+train,238,train,297,amyotrophic lateral sclerosis
+train,239,train,298,alzheimer's disease
+train,240,train,299,melanoma
+train,241,train,300,thyroid dyshormonogenesis
+train,242,train,301,amyotrophic lateral sclerosis
+train,243,train,302,alzheimer's disease
+train,244,train,303,clear cell renal cell carcinoma
+train,245,train,305,colorectal cancer
+train,246,train,306,parkinson's disease
+train,247,train,307,huntington's disease
+train,248,train,310,non-small cell lung cancer
+train,249,train,311,huntington's disease
+train,250,train,313,parkinson's disease
+train,251,train,314,thyroid dyshormonogenesis
+train,252,train,315,alzheimer's disease
+train,253,train,316,parkinson's disease
+train,254,train,317,prion disease
+train,255,train,318,chronic myeloid leukemia
+train,256,train,319,parkinson's disease
+train,257,train,321,alzheimer's disease
+train,258,train,322,prion disease
+train,259,train,323,clear cell renal cell carcinoma
+train,260,train,324,amyotrophic lateral sclerosis
+train,261,train,325,pituitary adenoma
+train,262,train,326,gaucher disease
+train,263,train,327,spinocerebellar ataxia
+train,264,train,328,spinocerebellar ataxia
+train,265,train,330,non-small cell lung cancer
+train,266,train,331,alzheimer's disease
+train,267,train,332,parkinson's disease
+train,268,train,333,cushing syndrome
+train,269,train,334,urothelial carcinoma
+train,270,train,336,spinocerebellar ataxia
+train,271,train,337,alzheimer's disease
+train,272,train,338,parkinson's disease
+train,273,train,339,hepatocellular carcinoma
+train,274,train,340,prion disease
+train,275,train,341,urothelial carcinoma
+train,276,train,342,parkinson's disease
+train,277,train,343,alzheimer's disease
+train,278,train,344,non-small cell lung cancer
+train,279,train,345,parkinson's disease
+train,280,train,346,thyroid dyshormonogenesis
+train,281,train,347,acute myeloid leukemia
+train,282,train,348,huntington's disease
+train,283,train,350,alzheimer's disease
+train,284,train,353,spinocerebellar ataxia
+train,285,train,354,huntington's disease
+train,286,train,356,non-small cell lung cancer
+train,287,train,357,spinocerebellar ataxia
+train,288,train,358,parkinson's disease
+train,289,train,359,parkinson's disease
+train,290,train,361,melanoma
+train,291,train,362,alzheimer's disease
+train,292,train,363,gaucher disease
+train,293,train,364,cushing syndrome
+train,294,train,365,alzheimer's disease
+train,295,train,366,non-small cell lung cancer
+train,296,train,367,cushing syndrome
+train,297,train,368,prion disease
+train,298,train,370,huntington's disease
+train,299,train,371,spinocerebellar ataxia
+train,300,train,372,melanoma
+train,301,train,373,parkinson's disease
+train,302,train,374,von hippel-lindau syndrome
+train,303,train,375,amyotrophic lateral sclerosis
+train,304,train,376,parkinson's disease
+train,305,train,378,parkinson's disease
+train,306,train,379,multiple endocrine neoplasia type 1
+train,307,train,380,alzheimer's disease
+train,308,train,381,alzheimer's disease
+train,309,train,384,parkinson's disease
+train,310,train,385,renal cell carcinoma
+train,311,train,386,parkinson's disease
+train,312,train,389,spinocerebellar ataxia
+train,313,train,390,alzheimer's disease
+train,314,train,391,alzheimer's disease
+train,315,train,393,spinocerebellar ataxia
+train,316,train,394,creutzfeldt-jakob disease
+train,317,train,395,spinocerebellar ataxia
+train,318,train,396,adenine phosphoribosyltransferase deficiency
+train,319,train,398,creutzfeldt-jakob disease
+train,320,train,400,parkinson's disease
+train,321,train,401,spinocerebellar ataxia
+train,322,train,402,primary aldosteronism
+train,323,train,404,parkinson's disease
+train,324,train,405,cushing syndrome
+train,325,train,406,amyotrophic lateral sclerosis
+train,326,train,407,n-acetylglutamate synthase deficiency
+train,327,train,408,spinocerebellar ataxia
+train,328,train,410,lesch-nyhan syndrome
+train,329,train,411,prion disease
+train,330,train,412,amyotrophic lateral sclerosis
+train,331,train,413,parkinson's disease
+train,332,train,414,parkinson's disease
+train,333,train,415,parkinson's disease
+train,334,train,416,prion disease
+train,335,train,417,colorectal cancer
+train,336,train,418,parkinson's disease
+train,337,train,420,thyroid dyshormonogenesis
+train,338,train,421,parkinson's disease
+train,339,train,423,melanoma
+train,340,train,424,non-small cell lung cancer
+train,341,train,426,chronic myeloid leukemia
+train,342,train,428,pancreatic ductal adenocarcinoma
+train,343,train,430,alzheimer's disease
+train,344,train,433,thyroid dyshormonogenesis
+train,345,train,434,parkinson's disease
+train,346,train,435,acute myeloid leukemia
+train,347,train,436,spinocerebellar ataxia
+train,348,train,437,spinocerebellar ataxia
+train,349,train,438,primary aldosteronism
+train,350,train,439,prion disease
+train,351,train,440,amyotrophic lateral sclerosis
+train,352,train,441,amyotrophic lateral sclerosis
+train,353,train,442,spinocerebellar ataxia
+train,354,train,443,cushing syndrome
+train,355,train,444,alzheimer's disease
+train,356,train,445,alzheimer's disease
+train,357,train,447,amyotrophic lateral sclerosis
+train,358,train,449,spinocerebellar ataxia
+train,359,train,450,alzheimer's disease
+train,360,train,451,amyotrophic lateral sclerosis
+train,361,train,452,alzheimer's disease
+train,362,train,454,glioblastoma multiforme
+train,363,train,455,spinocerebellar ataxia
+train,364,train,456,amyotrophic lateral sclerosis
+train,365,train,457,amyotrophic lateral sclerosis
+train,366,train,458,prion disease
+train,367,train,459,gaucher disease
+train,368,train,460,spinocerebellar ataxia
+train,369,train,461,alzheimer's disease
+train,370,train,462,acute myeloid leukemia
+train,371,train,463,colorectal cancer
+train,372,train,464,urothelial carcinoma
+train,373,train,465,spinocerebellar ataxia
+train,374,train,467,alzheimer's disease
+train,375,train,468,spinocerebellar ataxia
+train,376,train,469,papillary renal cell carcinoma
+train,377,train,470,gastric cancer
+train,378,train,472,alzheimer's disease
+train,379,train,473,alzheimer's disease
+train,380,train,474,alzheimer's disease
+train,381,train,475,chronic myeloid leukemia
+train,382,train,477,parkinson's disease
+train,383,train,478,lesch-nyhan syndrome
+train,384,train,479,acute myeloid leukemia
+train,385,train,481,cushing syndrome
+train,386,train,482,amyotrophic lateral sclerosis
+train,387,train,483,parkinson's disease
+train,388,train,485,cushing syndrome
+train,389,train,486,prion disease
+train,390,train,487,acute myeloid leukemia
+train,391,train,488,parkinson's disease
+train,392,train,489,colorectal cancer
+train,393,train,491,parkinson's disease
+train,394,train,492,spinocerebellar ataxia
+train,395,train,493,alzheimer's disease
+train,396,train,495,alzheimer's disease
+train,397,train,497,creutzfeldt-jakob disease
+train,398,train,498,chronic myeloid leukemia
+train,399,train,499,urothelial carcinoma
+train,400,train,500,primary aldosteronism
+train,401,train,501,spinocerebellar ataxia
+train,402,train,502,parkinson's disease
+train,403,train,503,hepatocellular carcinoma
+train,404,train,504,huntington's disease
+train,405,train,505,spinocerebellar ataxia
+train,406,train,506,chronic myeloid leukemia
+train,407,train,507,spinocerebellar ataxia
+train,408,train,508,parkinson's disease
+train,409,train,509,prion disease
+train,410,train,510,thyroid dyshormonogenesis
+train,411,train,511,spinocerebellar ataxia
+train,412,train,512,urothelial carcinoma
+train,413,train,513,primary aldosteronism
+train,414,train,514,spinocerebellar ataxia
+train,415,train,515,prion disease
+train,416,train,517,non-small cell lung cancer
+train,417,train,519,parkinson's disease
+train,418,train,520,acute myeloid leukemia
+train,419,train,522,spinocerebellar ataxia
+train,420,train,523,lesch-nyhan syndrome
+train,421,train,524,amyotrophic lateral sclerosis
+train,422,train,525,prion disease
+train,423,train,526,alzheimer's disease
+train,424,train,527,prion disease
+train,425,train,528,methylmalonic aciduria and homocystinuria
+train,426,train,529,hepatocellular carcinoma
+train,427,train,531,non-small cell lung cancer
+train,428,train,532,hepatocellular carcinoma
+train,429,train,533,hepatocellular carcinoma
+train,430,train,534,parkinson's disease
+train,431,train,535,von hippel-lindau syndrome
+train,432,train,536,huntington's disease
+train,433,train,537,urothelial carcinoma
+train,434,train,538,primary aldosteronism
+train,435,train,539,melanoma
+train,436,train,540,amyotrophic lateral sclerosis
+train,437,train,541,alzheimer's disease
+train,438,train,542,parkinson's disease
+train,439,train,544,alzheimer's disease
+train,440,train,545,non-small cell lung cancer
+train,441,train,546,cushing syndrome
+train,442,train,547,parkinson's disease
+train,443,train,548,parkinson's disease
+train,444,train,549,alzheimer's disease
+train,445,train,550,lesch-nyhan syndrome
+train,446,train,551,amyotrophic lateral sclerosis
+train,447,train,552,acute myeloid leukemia
+train,448,train,553,alzheimer's disease
+train,449,train,555,pancreatic ductal adenocarcinoma
+train,450,train,556,colorectal cancer
+train,451,train,557,parkinson's disease
+train,452,train,558,prion disease
+train,453,train,560,non-small cell lung cancer
+train,454,train,562,spinocerebellar ataxia
+train,455,train,564,amyotrophic lateral sclerosis
+train,456,train,565,alzheimer's disease
+train,457,train,566,non-small cell lung cancer
+train,458,train,568,primary aldosteronism
+train,459,train,569,creutzfeldt-jakob disease
+train,460,train,570,spinocerebellar ataxia
+train,461,train,571,prion disease
+train,462,train,573,alzheimer's disease
+train,463,train,577,prion disease
+train,464,train,578,acute myeloid leukemia
+train,465,train,579,amyotrophic lateral sclerosis
+train,466,train,580,alzheimer's disease
+train,467,train,581,spinocerebellar ataxia
+train,468,train,582,von hippel-lindau syndrome
+train,469,train,584,alzheimer's disease
+train,470,train,585,cushing syndrome
+train,471,train,586,colorectal cancer
+train,472,train,589,parkinson's disease
+train,473,train,591,n-acetylglutamate synthase deficiency
+train,474,train,592,lesch-nyhan syndrome
+train,475,train,593,melanoma
+train,476,train,594,alzheimer's disease
+train,477,train,597,non-small cell lung cancer
+train,478,train,598,parkinson's disease
+train,479,train,599,parkinson's disease
+train,480,train,600,alzheimer's disease
+train,481,train,601,prion disease
+train,482,train,602,prion disease
+train,483,train,603,amyotrophic lateral sclerosis
+train,484,train,604,gaucher disease
+train,485,train,606,amyotrophic lateral sclerosis
+train,486,train,607,non-small cell lung cancer
+train,487,train,608,spinocerebellar ataxia
+train,488,train,609,creutzfeldt-jakob disease
+train,489,train,610,parkinson's disease
+train,490,train,614,spinocerebellar ataxia
+train,491,train,615,chronic myeloid leukemia
+train,492,train,616,spinocerebellar ataxia
+train,493,train,617,colorectal cancer
+train,494,train,618,alzheimer's disease
+train,495,train,619,alzheimer's disease
+train,496,train,620,parkinson's disease
+train,497,train,621,alzheimer's disease
+train,498,train,622,amyotrophic lateral sclerosis
+train,499,train,623,melanoma
+train,500,train,624,spinocerebellar ataxia
+train,501,train,625,colorectal cancer
+train,502,train,626,basal cell carcinoma
+train,503,train,628,huntington's disease
+train,504,train,630,parkinson's disease
+train,505,train,634,urothelial carcinoma
+train,506,train,635,parkinson's disease
+train,507,train,637,non-small cell lung cancer
+train,508,train,638,pituitary adenoma
+train,509,train,639,spinocerebellar ataxia
+train,510,train,640,colorectal cancer
+train,511,train,641,hepatocellular carcinoma
+train,512,train,643,amyotrophic lateral sclerosis
+train,513,train,644,urothelial carcinoma
+train,514,train,645,alzheimer's disease
+train,515,train,646,spinocerebellar ataxia
+train,516,train,647,amyotrophic lateral sclerosis
+train,517,train,649,spinocerebellar ataxia
+train,518,train,650,huntington's disease
+train,519,train,651,melanoma
+train,520,train,652,spinocerebellar ataxia
+train,521,train,654,creutzfeldt-jakob disease
+train,522,train,655,alzheimer's disease
+train,523,train,656,alzheimer's disease
+train,524,train,657,parkinson's disease
+train,525,train,658,primary aldosteronism
+train,526,train,660,alzheimer's disease
+train,527,train,662,urothelial carcinoma
+train,528,train,663,alzheimer's disease
+train,529,train,664,huntington's disease
+train,530,train,665,parkinson's disease
+train,531,train,667,pituitary adenoma
+train,532,train,668,alzheimer's disease
+train,533,train,669,lesch-nyhan syndrome
+train,534,train,670,parkinson's disease
+train,535,train,672,alzheimer's disease
+train,536,train,673,methylmalonic aciduria and homocystinuria
+train,537,train,674,parkinson's disease
+train,538,train,676,creutzfeldt-jakob disease
+train,539,train,677,parkinson's disease
+train,540,train,679,amyotrophic lateral sclerosis
+train,541,train,680,pancreatic ductal adenocarcinoma
+train,542,train,682,prostate cancer
+train,543,train,683,acute myeloid leukemia
+train,544,train,684,acute myeloid leukemia
+train,545,train,685,urothelial carcinoma
+train,546,train,686,huntington's disease
+train,547,train,687,non-small cell lung cancer
+train,548,train,688,alzheimer's disease
+train,549,train,689,alzheimer's disease
+train,550,train,690,spinocerebellar ataxia
+train,551,train,691,alzheimer's disease
+train,552,train,693,primary aldosteronism
+train,553,train,694,n-acetylglutamate synthase deficiency
+train,554,train,695,amyotrophic lateral sclerosis
+train,555,train,696,spinocerebellar ataxia
+train,556,train,697,alzheimer's disease
+train,557,train,698,pituitary adenoma
+train,558,train,699,gaucher disease
+train,559,train,700,parkinson's disease
+train,560,train,701,spinocerebellar ataxia
+train,561,train,702,spinocerebellar ataxia
+train,562,train,703,parkinson's disease
+train,563,train,704,pituitary adenoma
+train,564,train,706,amyotrophic lateral sclerosis
+train,565,train,707,parkinson's disease
+train,566,train,709,alzheimer's disease
+train,567,train,710,alzheimer's disease
+train,568,train,711,amyotrophic lateral sclerosis
+train,569,train,712,spinocerebellar ataxia
+train,570,train,715,spinocerebellar ataxia
+train,571,train,717,acute myeloid leukemia
+train,572,train,718,parkinson's disease
+train,573,train,719,spinocerebellar ataxia
+train,574,train,720,alzheimer's disease
+train,575,train,721,primary aldosteronism
+train,576,train,722,pancreatic ductal adenocarcinoma
+train,577,train,723,parkinson's disease
+train,578,train,724,amyotrophic lateral sclerosis
+train,579,train,725,parkinson's disease
+train,580,train,727,spinocerebellar ataxia
+train,581,train,728,alzheimer's disease
+train,582,train,729,amyotrophic lateral sclerosis
+train,583,train,730,acute myeloid leukemia
+train,584,train,731,amyotrophic lateral sclerosis
+train,585,train,732,methylmalonic aciduria and homocystinuria
+train,586,train,733,amyotrophic lateral sclerosis
+train,587,train,735,alzheimer's disease
+train,588,train,736,alzheimer's disease
+train,589,train,739,adenine phosphoribosyltransferase deficiency
+train,590,train,740,melanoma
+train,591,train,741,alzheimer's disease
+train,592,train,742,melanoma
+train,593,train,743,amyotrophic lateral sclerosis
+train,594,train,744,colorectal cancer
+train,595,train,745,urothelial carcinoma
+train,596,train,746,alzheimer's disease
+train,597,train,747,cushing syndrome
+train,598,train,748,huntington's disease
+train,599,train,749,alzheimer's disease
+train,600,train,750,spinocerebellar ataxia
+train,601,train,751,alzheimer's disease
+train,602,train,753,papillary renal cell carcinoma
+train,603,train,754,alzheimer's disease
+train,604,train,755,pancreatic ductal adenocarcinoma
+train,605,train,757,colorectal cancer
+train,606,train,758,parkinson's disease
+train,607,train,759,alzheimer's disease
+train,608,train,760,n-acetylglutamate synthase deficiency
+train,609,train,761,papillary renal cell carcinoma
+train,610,train,762,non-small cell lung cancer
+train,611,train,763,parkinson's disease
+train,612,train,764,alzheimer's disease
+train,613,train,765,melanoma
+train,614,train,766,spinocerebellar ataxia
+train,615,train,768,parkinson's disease
+train,616,train,769,amyotrophic lateral sclerosis
+train,617,train,770,chronic myeloid leukemia
+train,618,train,771,parkinson's disease
+train,619,train,773,spinocerebellar ataxia
+train,620,train,774,parkinson's disease
+train,621,train,775,spinocerebellar ataxia
+train,622,train,776,pancreatic ductal adenocarcinoma
+train,623,train,777,melanoma
+train,624,train,778,glioblastoma multiforme
+train,625,train,779,papillary renal cell carcinoma
+train,626,train,780,acute myeloid leukemia
+train,627,train,781,spinocerebellar ataxia
+train,628,train,782,cushing syndrome
+train,629,train,784,spinocerebellar ataxia
+train,630,train,785,primary aldosteronism
+train,631,train,786,parkinson's disease
+train,632,train,787,prion disease
+train,633,train,788,thyroid dyshormonogenesis
+train,634,train,789,alzheimer's disease
+train,635,train,790,spinocerebellar ataxia
+train,636,train,792,clear cell renal cell carcinoma
+train,637,train,793,glioblastoma multiforme
+train,638,train,794,spinocerebellar ataxia
+train,639,train,795,colorectal cancer
+train,640,train,796,parkinson's disease
+train,641,train,797,spinocerebellar ataxia
+train,642,train,798,non-small cell lung cancer
+train,643,train,799,multiple endocrine neoplasia type 1
+train,644,train,800,parkinson's disease
+train,645,train,803,renal cell carcinoma
+train,646,train,804,non-small cell lung cancer
+train,647,train,805,amyotrophic lateral sclerosis
+train,648,train,806,spinocerebellar ataxia
+train,649,train,807,spinocerebellar ataxia
+train,650,train,808,alzheimer's disease
+train,651,train,809,non-small cell lung cancer
+train,652,train,811,cushing syndrome
+train,653,train,812,parkinson's disease
+train,654,train,813,renal cell carcinoma
+train,655,train,814,spinocerebellar ataxia
+train,656,train,815,alzheimer's disease
+train,657,train,816,prion disease
+train,658,train,817,papillary thyroid carcinoma
+train,659,train,818,thyroid cancer
+train,660,train,820,huntington's disease
+train,661,train,822,spinocerebellar ataxia
+train,662,train,823,glioblastoma multiforme
+train,663,train,824,amyotrophic lateral sclerosis
+train,664,train,825,parkinson's disease
+train,665,train,826,huntington's disease
+train,666,train,827,parkinson's disease
+train,667,train,828,colorectal cancer
+train,668,train,829,colorectal cancer
+train,669,train,830,non-small cell lung cancer
+train,670,train,831,acute myeloid leukemia
+train,671,train,833,creutzfeldt-jakob disease
+train,672,train,834,glioblastoma multiforme
+train,673,train,836,prion disease
+train,674,train,837,parkinson's disease
+train,675,train,838,spinocerebellar ataxia
+train,676,train,839,spinocerebellar ataxia
+train,677,train,840,alzheimer's disease
+train,678,train,841,amyotrophic lateral sclerosis
+train,679,train,842,alzheimer's disease
+train,680,train,843,parkinson's disease
+train,681,train,844,colorectal cancer
+train,682,train,845,alzheimer's disease
+train,683,train,846,lesch-nyhan syndrome
+train,684,train,847,chronic myeloid leukemia
+train,685,train,848,prostate cancer
+train,686,train,849,alzheimer's disease
+train,687,train,850,parkinson's disease
+train,688,train,851,alzheimer's disease
+train,689,train,852,colorectal cancer
+train,690,train,853,prion disease
+train,691,train,855,spinocerebellar ataxia
+train,692,train,857,alzheimer's disease
+train,693,train,858,creutzfeldt-jakob disease
+train,694,train,859,colorectal cancer
+train,695,train,860,parkinson's disease
+train,696,train,864,chronic myeloid leukemia
+train,697,train,865,pituitary adenoma
+train,698,train,866,prion disease
+train,699,train,867,alzheimer's disease
+train,700,train,868,huntington's disease
+train,701,train,869,non-small cell lung cancer
+train,702,train,870,prion disease
+train,703,train,872,urothelial carcinoma
+train,704,train,873,creutzfeldt-jakob disease
+train,705,train,875,alzheimer's disease
+train,706,train,876,multiple endocrine neoplasia type 1
+train,707,train,877,non-small cell lung cancer
+train,708,train,878,amyotrophic lateral sclerosis
+train,709,train,880,urothelial carcinoma
+train,710,train,881,spinocerebellar ataxia
+train,711,train,882,alzheimer's disease
+train,712,train,883,alzheimer's disease
+train,713,train,884,creutzfeldt-jakob disease
+train,714,train,885,alzheimer's disease
+train,715,train,888,amyotrophic lateral sclerosis
+train,716,train,889,colorectal cancer
+train,717,train,890,parkinson's disease
+train,718,train,891,renal cell carcinoma
+train,719,train,892,parkinson's disease
+train,720,train,893,spinocerebellar ataxia
+train,721,train,894,amyotrophic lateral sclerosis
+train,722,train,895,hepatocellular carcinoma
+train,723,train,896,spinocerebellar ataxia
+train,724,train,897,hepatocellular carcinoma
+train,725,train,899,spinocerebellar ataxia
+train,726,train,900,alzheimer's disease
+train,727,train,901,alzheimer's disease
+train,728,train,903,acute myeloid leukemia
+train,729,train,904,amyotrophic lateral sclerosis
+train,730,train,905,alzheimer's disease
+train,731,train,906,spinocerebellar ataxia
+train,732,train,907,amyotrophic lateral sclerosis
+train,733,train,908,melanoma
+train,734,train,909,alzheimer's disease
+train,735,train,910,amyotrophic lateral sclerosis
+train,736,train,911,spinocerebellar ataxia
+train,737,train,912,melanoma
+train,738,train,913,prion disease
+train,739,train,914,spinocerebellar ataxia
+train,740,train,915,urothelial carcinoma
+train,741,train,916,amyotrophic lateral sclerosis
+train,742,train,917,amyotrophic lateral sclerosis
+train,743,train,918,gaucher disease
+train,744,train,919,parkinson's disease
+train,745,train,920,alzheimer's disease
+train,746,train,921,hepatocellular carcinoma
+train,747,train,922,huntington's disease
+train,748,train,924,spinocerebellar ataxia
+train,749,train,925,huntington's disease
+train,750,train,926,huntington's disease
+train,751,train,928,parkinson's disease
+train,752,train,929,parkinson's disease
+train,753,train,930,alzheimer's disease
+train,754,train,931,creutzfeldt-jakob disease
+train,755,train,932,amyotrophic lateral sclerosis
+train,756,train,933,multiple endocrine neoplasia type 1
+train,757,train,934,alzheimer's disease
+train,758,train,935,papillary thyroid carcinoma
+train,759,train,937,primary aldosteronism
+train,760,train,938,acute myeloid leukemia
+train,761,train,939,amyotrophic lateral sclerosis
+train,762,train,940,alzheimer's disease
+train,763,train,941,huntington's disease
+train,764,train,942,amyotrophic lateral sclerosis
+train,765,train,943,alzheimer's disease
+train,766,train,945,amyotrophic lateral sclerosis
+train,767,train,947,cushing syndrome
+train,768,train,948,urothelial carcinoma
+train,769,train,949,non-small cell lung cancer
+train,770,train,951,parkinson's disease
+train,771,train,952,spinocerebellar ataxia
+train,772,train,953,alzheimer's disease
+train,773,train,954,parkinson's disease
+train,774,train,957,spinocerebellar ataxia
+train,775,train,959,parkinson's disease
+train,776,train,960,pancreatic ductal adenocarcinoma
+train,777,train,961,chronic myeloid leukemia
+train,778,train,962,alzheimer's disease
+train,779,train,964,alzheimer's disease
+train,780,train,965,alzheimer's disease
+train,781,train,966,lesch-nyhan syndrome
+train,782,train,967,parkinson's disease
+train,783,train,968,melanoma
+train,784,train,969,prion disease
+train,785,train,970,amyotrophic lateral sclerosis
+train,786,train,971,parkinson's disease
+train,787,train,972,parkinson's disease
+train,788,train,973,spinocerebellar ataxia
+train,789,train,974,pituitary adenoma
+train,790,train,976,spinocerebellar ataxia
+train,791,train,977,spinocerebellar ataxia
+train,792,train,978,non-small cell lung cancer
+train,793,train,979,parkinson's disease
+train,794,train,980,parkinson's disease
+train,795,train,981,non-small cell lung cancer
+train,796,train,982,parkinson's disease
+train,797,train,983,thyroid dyshormonogenesis
+train,798,train,986,spinocerebellar ataxia
+train,799,train,987,melanoma
+train,800,train,988,urothelial carcinoma
+train,801,train,990,alzheimer's disease
+train,802,train,992,acute myeloid leukemia
+train,803,train,993,n-acetylglutamate synthase deficiency
+train,804,train,994,von hippel-lindau syndrome
+train,805,train,995,spinocerebellar ataxia
+train,806,train,997,spinocerebellar ataxia
+train,807,train,999,alzheimer's disease
+train,808,train,1001,parkinson's disease
+train,809,train,1002,spinocerebellar ataxia
+train,810,train,1003,amyotrophic lateral sclerosis
+train,811,train,1006,alzheimer's disease
+train,812,train,1007,cushing syndrome
+train,813,train,1008,alzheimer's disease
+train,814,train,1009,renal cell carcinoma
+train,815,train,1010,alzheimer's disease
+train,816,train,1011,gaucher disease
+train,817,train,1013,pancreatic ductal adenocarcinoma
+train,818,train,1015,acute myeloid leukemia
+train,819,train,1016,papillary thyroid carcinoma
+train,820,train,1017,alzheimer's disease
+train,821,train,1018,alzheimer's disease
+train,822,train,1020,spinocerebellar ataxia
+train,823,train,1021,cushing syndrome
+train,824,train,1023,amyotrophic lateral sclerosis
+train,825,train,1024,spinocerebellar ataxia
+train,826,train,1026,prostate cancer
+train,827,train,1027,thyroid dyshormonogenesis
+train,828,train,1028,colorectal cancer
+train,829,train,1029,alzheimer's disease
+train,830,train,1031,lesch-nyhan syndrome
+train,831,train,1032,sphingolipidoses
+train,832,train,1033,prion disease
+train,833,train,1034,prion disease
+train,834,train,1036,papillary renal cell carcinoma
+train,835,train,1037,spinocerebellar ataxia
+train,836,train,1038,alzheimer's disease
+train,837,train,1039,parkinson's disease
+train,838,train,1042,parkinson's disease
+train,839,train,1043,alzheimer's disease
+train,840,train,1044,parkinson's disease
+train,841,train,1045,amyotrophic lateral sclerosis
+train,842,train,1046,creutzfeldt-jakob disease
+train,843,train,1047,thyroid cancer
+train,844,train,1048,spinocerebellar ataxia
+train,845,train,1049,melanoma
+train,846,train,1051,creutzfeldt-jakob disease
+train,847,train,1053,prion disease
+train,848,train,1054,cushing syndrome
+train,849,train,1056,parkinson's disease
+train,850,train,1059,alzheimer's disease
+train,851,train,1060,colorectal cancer
+train,852,train,1061,colorectal cancer
+train,853,train,1062,amyotrophic lateral sclerosis
+train,854,train,1063,spinocerebellar ataxia
+train,855,train,1064,acute myeloid leukemia
+train,856,train,1065,spinocerebellar ataxia
+train,857,train,1066,alzheimer's disease
+train,858,train,1067,lesch-nyhan syndrome
+train,859,train,1068,alzheimer's disease
+train,860,train,1069,alzheimer's disease
+train,861,train,1070,huntington's disease
+train,862,train,1071,creutzfeldt-jakob disease
+train,863,train,1072,amyotrophic lateral sclerosis
+train,864,train,1073,prion disease
+train,865,train,1074,huntington's disease
+train,866,train,1075,spinocerebellar ataxia
+train,867,train,1077,spinocerebellar ataxia
+train,868,train,1078,alzheimer's disease
+train,869,train,1080,melanoma
+train,870,train,1081,parkinson's disease
+train,871,train,1082,spinocerebellar ataxia
+train,872,train,1083,alzheimer's disease
+train,873,train,1084,thyroid dyshormonogenesis
+train,874,train,1085,spinocerebellar ataxia
+train,875,train,1088,parkinson's disease
+train,876,train,1089,colorectal cancer
+train,877,train,1090,spinocerebellar ataxia
+train,878,train,1091,alzheimer's disease
+train,879,train,1092,glioblastoma multiforme
+train,880,train,1093,alzheimer's disease
+train,881,train,1094,spinocerebellar ataxia
+train,882,train,1095,alzheimer's disease
+train,883,train,1096,urothelial carcinoma
+train,884,train,1097,adenine phosphoribosyltransferase deficiency
+train,885,train,1098,renal cell carcinoma
+train,886,train,1099,clear cell renal cell carcinoma
+train,887,train,1100,parkinson's disease
+train,888,train,1104,spinocerebellar ataxia
+train,889,train,1105,alzheimer's disease
+train,890,train,1106,non-small cell lung cancer
+train,891,train,1107,huntington's disease
+train,892,train,1108,pituitary adenoma
+train,893,train,1109,alzheimer's disease
+train,894,train,1110,parkinson's disease
+train,895,train,1111,spinocerebellar ataxia
+train,896,train,1112,spinocerebellar ataxia
+train,897,train,1113,spinocerebellar ataxia
+train,898,train,1114,amyotrophic lateral sclerosis
+train,899,train,1115,gaucher disease
+train,900,train,1118,colorectal cancer
+train,901,train,1119,non-small cell lung cancer
+train,902,train,1120,parkinson's disease
+train,903,train,1121,spinocerebellar ataxia
+train,904,train,1123,prostate cancer
+train,905,train,1124,parkinson's disease
+train,906,train,1125,parkinson's disease
+train,907,train,1126,parkinson's disease
+train,908,train,1129,alzheimer's disease
+train,909,train,1130,gaucher disease
+train,910,train,1131,pituitary adenoma
+train,911,train,1133,amyotrophic lateral sclerosis
+train,912,train,1134,spinocerebellar ataxia
+train,913,train,1137,amyotrophic lateral sclerosis
+train,914,train,1139,alzheimer's disease
+train,915,train,1140,melanoma
+train,916,train,1141,adenine phosphoribosyltransferase deficiency
+train,917,train,1143,parkinson's disease
+train,918,train,1145,parkinson's disease
+train,919,train,1146,prion disease
+train,920,train,1148,glioblastoma multiforme
+train,921,train,1149,acute myeloid leukemia
+train,922,train,1150,acute myeloid leukemia
+train,923,train,1151,colorectal cancer
+train,924,train,1155,huntington's disease
+train,925,train,1156,prion disease
+train,926,train,1157,parkinson's disease
+train,927,train,1158,melanoma
+train,928,val,0,spinocerebellar ataxia
+train,929,val,1,parkinson's disease
+train,930,val,2,non-small cell lung cancer
+train,931,val,3,melanoma
+train,932,val,5,spinocerebellar ataxia
+train,933,val,6,parkinson's disease
+train,934,val,7,amyotrophic lateral sclerosis
+train,935,val,9,spinocerebellar ataxia
+train,936,val,10,parkinson's disease
+train,937,val,11,glioblastoma multiforme
+train,938,val,13,adenine phosphoribosyltransferase deficiency
+train,939,val,14,parkinson's disease
+train,940,val,15,parkinson's disease
+train,941,val,16,amyotrophic lateral sclerosis
+train,942,val,17,melanoma
+train,943,val,18,spinocerebellar ataxia
+train,944,val,19,glioblastoma multiforme
+train,945,val,20,alzheimer's disease
+train,946,val,21,amyotrophic lateral sclerosis
+train,947,val,22,gaucher disease
+train,948,val,23,lesch-nyhan syndrome
+train,949,val,24,alzheimer's disease
+train,950,val,25,prion disease
+train,951,val,26,primary aldosteronism
+train,952,val,27,spinocerebellar ataxia
+train,953,val,29,gaucher disease
+train,954,val,31,parkinson's disease
+train,955,val,32,cushing syndrome
+train,956,val,33,alzheimer's disease
+train,957,val,35,huntington's disease
+train,958,val,37,papillary renal cell carcinoma
+train,959,val,39,amyotrophic lateral sclerosis
+train,960,val,40,amyotrophic lateral sclerosis
+train,961,val,42,gaucher disease
+train,962,val,43,renal cell carcinoma
+train,963,val,44,acute myeloid leukemia
+train,964,val,45,alzheimer's disease
+train,965,val,46,thyroid dyshormonogenesis
+train,966,val,47,prion disease
+train,967,val,48,alzheimer's disease
+train,968,val,49,gaucher disease
+train,969,val,50,non-small cell lung cancer
+train,970,val,53,methylmalonic aciduria and homocystinuria
+train,971,val,54,parkinson's disease
+train,972,val,55,huntington's disease
+train,973,val,56,spinocerebellar ataxia
+train,974,val,57,spinocerebellar ataxia
+train,975,val,59,cushing syndrome
+train,976,val,60,non-small cell lung cancer
+train,977,val,61,huntington's disease
+train,978,val,62,parkinson's disease
+train,979,val,64,colorectal cancer
+train,980,val,65,prion disease
+train,981,val,66,thyroid cancer
+train,982,val,67,parkinson's disease
+train,983,val,68,amyotrophic lateral sclerosis
+train,984,val,69,alzheimer's disease
+train,985,val,70,parkinson's disease
+train,986,val,72,melanoma
+train,987,val,73,alzheimer's disease
+train,988,val,74,alzheimer's disease
+train,989,val,75,spinocerebellar ataxia
+train,990,val,76,basal cell carcinoma
+train,991,val,77,amyotrophic lateral sclerosis
+train,992,val,78,parkinson's disease
+train,993,val,79,non-small cell lung cancer
+train,994,val,80,parkinson's disease
+train,995,val,81,von hippel-lindau syndrome
+train,996,val,82,spinocerebellar ataxia
+train,997,val,83,clear cell renal cell carcinoma
+train,998,val,84,prion disease
+train,999,val,85,parkinson's disease
+train,1000,val,86,alzheimer's disease
+train,1001,val,87,huntington's disease
+train,1002,val,88,prion disease
+train,1003,val,89,chronic myeloid leukemia
+train,1004,val,90,colorectal cancer
+train,1005,val,91,primary aldosteronism
+train,1006,val,92,alzheimer's disease
+train,1007,val,93,amyotrophic lateral sclerosis
+train,1008,val,94,parkinson's disease
+train,1009,val,95,parkinson's disease
+train,1010,val,99,alzheimer's disease
+train,1011,val,100,alzheimer's disease
+train,1012,val,101,prion disease
+train,1013,val,103,prion disease
+train,1014,val,104,alzheimer's disease
+train,1015,val,105,parkinson's disease
+train,1016,val,107,spinocerebellar ataxia
+train,1017,val,108,parkinson's disease
+train,1018,val,109,spinocerebellar ataxia
+train,1019,val,110,parkinson's disease
+train,1020,val,111,spinocerebellar ataxia
+train,1021,val,112,primary aldosteronism
+train,1022,val,113,thyroid cancer
+train,1023,val,114,non-small cell lung cancer
+train,1024,val,116,urothelial carcinoma
+train,1025,val,117,spinocerebellar ataxia
+train,1026,val,118,colorectal cancer
+train,1027,val,119,alzheimer's disease
+train,1028,val,120,spinocerebellar ataxia
+train,1029,val,121,basal cell carcinoma
+train,1030,val,122,acute myeloid leukemia
+train,1031,val,123,alzheimer's disease
+train,1032,val,124,parkinson's disease
+train,1033,val,125,parkinson's disease
+train,1034,val,126,glioblastoma multiforme
+train,1035,val,127,spinocerebellar ataxia
+train,1036,val,130,acute myeloid leukemia
+train,1037,val,131,prion disease
+train,1038,val,132,acute myeloid leukemia
+train,1039,val,133,amyotrophic lateral sclerosis
+train,1040,val,134,prion disease
+train,1041,val,135,alzheimer's disease
+train,1042,val,136,prion disease
+train,1043,val,138,colorectal cancer
+train,1044,val,139,parkinson's disease
+train,1045,val,141,renal cell carcinoma
+train,1046,val,143,alzheimer's disease
+train,1047,test,0,amyotrophic lateral sclerosis
+train,1048,test,1,clear cell renal cell carcinoma
+train,1049,test,2,melanoma
+train,1050,test,3,alzheimer's disease
+train,1051,test,4,spinocerebellar ataxia
+train,1052,test,5,alzheimer's disease
+train,1053,test,6,spinocerebellar ataxia
+train,1054,test,7,amyotrophic lateral sclerosis
+train,1055,test,8,alzheimer's disease
+train,1056,test,9,urothelial carcinoma
+train,1057,test,10,huntington's disease
+train,1058,test,11,parkinson's disease
+train,1059,test,12,hepatocellular carcinoma
+train,1060,test,13,prostate cancer
+train,1061,test,15,spinocerebellar ataxia
+train,1062,test,17,gaucher disease
+train,1063,test,18,spinocerebellar ataxia
+train,1064,test,19,prion disease
+train,1065,test,21,spinocerebellar ataxia
+train,1066,test,22,glioblastoma multiforme
+train,1067,test,23,spinocerebellar ataxia
+train,1068,test,24,alzheimer's disease
+train,1069,test,25,alzheimer's disease
+train,1070,test,26,amyotrophic lateral sclerosis
+train,1071,test,28,von hippel-lindau syndrome
+train,1072,test,29,parkinson's disease
+train,1073,test,30,melanoma
+train,1074,test,32,gaucher disease
+train,1075,test,33,renal cell carcinoma
+train,1076,test,34,chronic myeloid leukemia
+train,1077,test,35,parkinson's disease
+train,1078,test,37,clear cell renal cell carcinoma
+train,1079,test,38,huntington's disease
+train,1080,test,39,spinocerebellar ataxia
+train,1081,test,40,parkinson's disease
+train,1082,test,41,prion disease
+train,1083,test,42,spinocerebellar ataxia
+train,1084,test,43,amyotrophic lateral sclerosis
+train,1085,test,44,parkinson's disease
+train,1086,test,45,parkinson's disease
+train,1087,test,46,melanoma
+train,1088,test,47,adenine phosphoribosyltransferase deficiency
+train,1089,test,48,urothelial carcinoma
+train,1090,test,49,spinocerebellar ataxia
+train,1091,test,51,glioblastoma multiforme
+train,1092,test,52,prion disease
+train,1093,test,54,renal cell carcinoma
+train,1094,test,56,colorectal cancer
+train,1095,test,57,alzheimer's disease
+train,1096,test,58,prion disease
+train,1097,test,60,amyotrophic lateral sclerosis
+train,1098,test,63,parkinson's disease
+train,1099,test,64,amyotrophic lateral sclerosis
+train,1100,test,66,parkinson's disease
+train,1101,test,67,melanoma
+train,1102,test,68,gaucher disease
+train,1103,test,69,spinocerebellar ataxia
+train,1104,test,70,colorectal cancer
+train,1105,test,71,alzheimer's disease
+train,1106,test,72,cushing syndrome
+train,1107,test,73,alzheimer's disease
+train,1108,test,75,colorectal cancer
+train,1109,test,76,amyotrophic lateral sclerosis
+train,1110,test,77,parkinson's disease
+train,1111,test,78,spinocerebellar ataxia
+train,1112,test,79,papillary renal cell carcinoma
+train,1113,test,80,pancreatic ductal adenocarcinoma
+train,1114,test,81,melanoma
+train,1115,test,82,chronic myeloid leukemia
+train,1116,test,83,parkinson's disease
+train,1117,test,84,huntington's disease
+train,1118,test,85,parkinson's disease
+train,1119,test,86,robinow syndrome
+train,1120,test,88,spinocerebellar ataxia
+train,1121,test,91,alzheimer's disease
+train,1122,test,92,amyotrophic lateral sclerosis
+train,1123,test,95,parkinson's disease
+train,1124,test,97,parkinson's disease
+train,1125,test,98,parkinson's disease
+train,1126,test,99,parkinson's disease
+train,1127,test,103,parkinson's disease
+train,1128,test,106,chronic myeloid leukemia
+train,1129,test,107,acute myeloid leukemia
+train,1130,test,108,melanoma
+train,1131,test,109,amyotrophic lateral sclerosis
+train,1132,test,110,alzheimer's disease
+train,1133,test,111,acute myeloid leukemia
+train,1134,test,114,colorectal cancer
+train,1135,test,115,amyotrophic lateral sclerosis
+train,1136,test,117,parkinson's disease
+train,1137,test,118,n-acetylglutamate synthase deficiency
+train,1138,test,122,parkinson's disease
+train,1139,test,123,urothelial carcinoma
+train,1140,test,124,thyroid cancer
+train,1141,test,125,amyotrophic lateral sclerosis
+train,1142,test,127,parkinson's disease
+train,1143,test,128,huntington's disease
+train,1144,test,129,thyroid cancer
+train,1145,test,130,hepatocellular carcinoma
+train,1146,test,133,alzheimer's disease
+train,1147,test,134,alzheimer's disease
+train,1148,test,135,parkinson's disease
+train,1149,test,136,alzheimer's disease
+train,1150,test,137,thyroid dyshormonogenesis
+train,1151,test,138,n-acetylglutamate synthase deficiency
+train,1152,test,139,spinocerebellar ataxia
+train,1153,test,140,melanoma
+train,1154,test,141,basal cell carcinoma
+train,1155,test,142,alzheimer's disease
+train,1156,test,143,amyotrophic lateral sclerosis
+train,1157,test,144,spinocerebellar ataxia
+train,1158,test,145,melanoma
+id_test,0,train,3,amyotrophic lateral sclerosis
+id_test,1,train,6,spinocerebellar ataxia
+id_test,2,train,8,parkinson's disease
+id_test,3,train,12,parkinson's disease
+id_test,4,train,22,prion disease
+id_test,5,train,30,parkinson's disease
+id_test,6,train,38,amyotrophic lateral sclerosis
+id_test,7,train,39,alzheimer's disease
+id_test,8,train,56,von hippel-lindau syndrome
+id_test,9,train,59,parkinson's disease
+id_test,10,train,74,spinocerebellar ataxia
+id_test,11,train,75,parkinson's disease
+id_test,12,train,85,alzheimer's disease
+id_test,13,train,123,alzheimer's disease
+id_test,14,train,126,papillary renal cell carcinoma
+id_test,15,train,131,spinocerebellar ataxia
+id_test,16,train,180,non-small cell lung cancer
+id_test,17,train,191,parkinson's disease
+id_test,18,train,193,cushing syndrome
+id_test,19,train,195,renal cell carcinoma
+id_test,20,train,196,amyotrophic lateral sclerosis
+id_test,21,train,207,amyotrophic lateral sclerosis
+id_test,22,train,241,alzheimer's disease
+id_test,23,train,245,amyotrophic lateral sclerosis
+id_test,24,train,250,gaucher disease
+id_test,25,train,274,amyotrophic lateral sclerosis
+id_test,26,train,276,alzheimer's disease
+id_test,27,train,281,pituitary adenoma
+id_test,28,train,304,spinocerebellar ataxia
+id_test,29,train,308,adenine phosphoribosyltransferase deficiency
+id_test,30,train,312,amyotrophic lateral sclerosis
+id_test,31,train,320,colorectal cancer
+id_test,32,train,349,prion disease
+id_test,33,train,351,prion disease
+id_test,34,train,355,prostate cancer
+id_test,35,train,360,parkinson's disease
+id_test,36,train,377,gaucher disease
+id_test,37,train,382,chronic myeloid leukemia
+id_test,38,train,383,gaucher disease
+id_test,39,train,387,amyotrophic lateral sclerosis
+id_test,40,train,392,alzheimer's disease
+id_test,41,train,397,amyotrophic lateral sclerosis
+id_test,42,train,399,colorectal cancer
+id_test,43,train,419,alzheimer's disease
+id_test,44,train,425,colorectal cancer
+id_test,45,train,427,alzheimer's disease
+id_test,46,train,466,huntington's disease
+id_test,47,train,480,amyotrophic lateral sclerosis
+id_test,48,train,494,non-small cell lung cancer
+id_test,49,train,496,cushing syndrome
+id_test,50,train,518,hepatocellular carcinoma
+id_test,51,train,521,amyotrophic lateral sclerosis
+id_test,52,train,543,non-small cell lung cancer
+id_test,53,train,554,prion disease
+id_test,54,train,559,gaucher disease
+id_test,55,train,561,prion disease
+id_test,56,train,563,prion disease
+id_test,57,train,572,non-small cell lung cancer
+id_test,58,train,587,creutzfeldt-jakob disease
+id_test,59,train,595,alzheimer's disease
+id_test,60,train,596,melanoma
+id_test,61,train,631,chronic myeloid leukemia
+id_test,62,train,642,glioblastoma multiforme
+id_test,63,train,659,lesch-nyhan syndrome
+id_test,64,train,661,lesch-nyhan syndrome
+id_test,65,train,675,huntington's disease
+id_test,66,train,678,non-small cell lung cancer
+id_test,67,train,692,amyotrophic lateral sclerosis
+id_test,68,train,705,urothelial carcinoma
+id_test,69,train,714,primary aldosteronism
+id_test,70,train,716,huntington's disease
+id_test,71,train,726,melanoma
+id_test,72,train,738,cushing syndrome
+id_test,73,train,752,renal cell carcinoma
+id_test,74,train,756,amyotrophic lateral sclerosis
+id_test,75,train,772,glioblastoma multiforme
+id_test,76,train,801,parkinson's disease
+id_test,77,train,802,alzheimer's disease
+id_test,78,train,810,spinocerebellar ataxia
+id_test,79,train,819,cushing syndrome
+id_test,80,train,821,alzheimer's disease
+id_test,81,train,832,cushing syndrome
+id_test,82,train,854,spinocerebellar ataxia
+id_test,83,train,861,colorectal cancer
+id_test,84,train,863,gaucher disease
+id_test,85,train,874,non-small cell lung cancer
+id_test,86,train,879,hepatocellular carcinoma
+id_test,87,train,902,pituitary adenoma
+id_test,88,train,927,parkinson's disease
+id_test,89,train,936,amyotrophic lateral sclerosis
+id_test,90,train,944,clear cell renal cell carcinoma
+id_test,91,train,955,spinocerebellar ataxia
+id_test,92,train,958,acute myeloid leukemia
+id_test,93,train,963,alzheimer's disease
+id_test,94,train,984,alzheimer's disease
+id_test,95,train,985,melanoma
+id_test,96,train,989,thyroid cancer
+id_test,97,train,991,parkinson's disease
+id_test,98,train,996,alzheimer's disease
+id_test,99,train,998,non-small cell lung cancer
+id_test,100,train,1004,parkinson's disease
+id_test,101,train,1014,n-acetylglutamate synthase deficiency
+id_test,102,train,1019,spinocerebellar ataxia
+id_test,103,train,1040,non-small cell lung cancer
+id_test,104,train,1041,parkinson's disease
+id_test,105,train,1050,parkinson's disease
+id_test,106,train,1055,acute myeloid leukemia
+id_test,107,train,1057,parkinson's disease
+id_test,108,train,1058,amyotrophic lateral sclerosis
+id_test,109,train,1086,alzheimer's disease
+id_test,110,train,1087,papillary renal cell carcinoma
+id_test,111,train,1102,amyotrophic lateral sclerosis
+id_test,112,train,1103,spinocerebellar ataxia
+id_test,113,train,1117,parkinson's disease
+id_test,114,train,1127,primary aldosteronism
+id_test,115,train,1132,amyotrophic lateral sclerosis
+id_test,116,train,1135,amyotrophic lateral sclerosis
+id_test,117,train,1136,primary aldosteronism
+id_test,118,train,1144,spinocerebellar ataxia
+id_test,119,train,1152,prion disease
+id_test,120,val,12,spinocerebellar ataxia
+id_test,121,val,38,alzheimer's disease
+id_test,122,val,41,parkinson's disease
+id_test,123,val,51,cushing syndrome
+id_test,124,val,58,amyotrophic lateral sclerosis
+id_test,125,val,63,lesch-nyhan syndrome
+id_test,126,val,71,von hippel-lindau syndrome
+id_test,127,val,96,melanoma
+id_test,128,val,97,glioblastoma multiforme
+id_test,129,val,102,chronic myeloid leukemia
+id_test,130,val,129,spinocerebellar ataxia
+id_test,131,val,140,alzheimer's disease
+id_test,132,test,14,alzheimer's disease
+id_test,133,test,55,parkinson's disease
+id_test,134,test,59,amyotrophic lateral sclerosis
+id_test,135,test,61,huntington's disease
+id_test,136,test,62,amyotrophic lateral sclerosis
+id_test,137,test,74,melanoma
+id_test,138,test,89,von hippel-lindau syndrome
+id_test,139,test,94,acute myeloid leukemia
+id_test,140,test,101,huntington's disease
+id_test,141,test,113,multiple endocrine neoplasia type 1
+id_test,142,test,121,colorectal cancer
+id_test,143,test,131,parkinson's disease
+id_test,144,test,132,parkinson's disease
+ood_test,0,train,18,amyotrophic lateral sclerosis
+ood_test,1,train,27,amyotrophic lateral sclerosis
+ood_test,2,train,29,parkinson's disease
+ood_test,3,train,32,creutzfeldt-jakob disease
+ood_test,4,train,50,amyotrophic lateral sclerosis
+ood_test,5,train,53,parkinson's disease
+ood_test,6,train,55,alzheimer's disease
+ood_test,7,train,73,amyotrophic lateral sclerosis
+ood_test,8,train,82,melanoma
+ood_test,9,train,95,amyotrophic lateral sclerosis
+ood_test,10,train,104,amyotrophic lateral sclerosis
+ood_test,11,train,107,amyotrophic lateral sclerosis
+ood_test,12,train,119,amyotrophic lateral sclerosis
+ood_test,13,train,148,amyotrophic lateral sclerosis
+ood_test,14,train,152,amyotrophic lateral sclerosis
+ood_test,15,train,162,amyotrophic lateral sclerosis
+ood_test,16,train,166,parkinson's disease
+ood_test,17,train,168,prion disease
+ood_test,18,train,176,prion disease
+ood_test,19,train,188,amyotrophic lateral sclerosis
+ood_test,20,train,192,spinocerebellar ataxia
+ood_test,21,train,202,spinocerebellar ataxia
+ood_test,22,train,203,spinocerebellar ataxia
+ood_test,23,train,217,alzheimer's disease
+ood_test,24,train,235,melanoma
+ood_test,25,train,236,prion disease
+ood_test,26,train,262,spinocerebellar ataxia
+ood_test,27,train,265,amyotrophic lateral sclerosis
+ood_test,28,train,273,melanoma
+ood_test,29,train,284,alzheimer's disease
+ood_test,30,train,287,parkinson's disease
+ood_test,31,train,309,spinocerebellar ataxia
+ood_test,32,train,329,amyotrophic lateral sclerosis
+ood_test,33,train,335,alzheimer's disease
+ood_test,34,train,352,alzheimer's disease
+ood_test,35,train,369,melanoma
+ood_test,36,train,388,amyotrophic lateral sclerosis
+ood_test,37,train,403,amyotrophic lateral sclerosis
+ood_test,38,train,409,creutzfeldt-jakob disease
+ood_test,39,train,422,melanoma
+ood_test,40,train,429,spinocerebellar ataxia
+ood_test,41,train,431,prion disease
+ood_test,42,train,432,amyotrophic lateral sclerosis
+ood_test,43,train,446,amyotrophic lateral sclerosis
+ood_test,44,train,448,melanoma
+ood_test,45,train,453,alzheimer's disease
+ood_test,46,train,471,parkinson's disease
+ood_test,47,train,476,amyotrophic lateral sclerosis
+ood_test,48,train,484,amyotrophic lateral sclerosis
+ood_test,49,train,490,parkinson's disease
+ood_test,50,train,516,melanoma
+ood_test,51,train,530,prion disease
+ood_test,52,train,567,amyotrophic lateral sclerosis
+ood_test,53,train,574,parkinson's disease
+ood_test,54,train,575,amyotrophic lateral sclerosis
+ood_test,55,train,576,parkinson's disease
+ood_test,56,train,583,amyotrophic lateral sclerosis
+ood_test,57,train,588,amyotrophic lateral sclerosis
+ood_test,58,train,590,spinocerebellar ataxia
+ood_test,59,train,605,colorectal cancer
+ood_test,60,train,611,prion disease
+ood_test,61,train,612,amyotrophic lateral sclerosis
+ood_test,62,train,613,amyotrophic lateral sclerosis
+ood_test,63,train,627,alzheimer's disease
+ood_test,64,train,629,parkinson's disease
+ood_test,65,train,632,prion disease
+ood_test,66,train,633,amyotrophic lateral sclerosis
+ood_test,67,train,636,amyotrophic lateral sclerosis
+ood_test,68,train,648,alzheimer's disease
+ood_test,69,train,653,prion disease
+ood_test,70,train,666,amyotrophic lateral sclerosis
+ood_test,71,train,671,amyotrophic lateral sclerosis
+ood_test,72,train,681,amyotrophic lateral sclerosis
+ood_test,73,train,708,alzheimer's disease
+ood_test,74,train,713,amyotrophic lateral sclerosis
+ood_test,75,train,734,amyotrophic lateral sclerosis
+ood_test,76,train,737,amyotrophic lateral sclerosis
+ood_test,77,train,767,amyotrophic lateral sclerosis
+ood_test,78,train,783,amyotrophic lateral sclerosis
+ood_test,79,train,791,alzheimer's disease
+ood_test,80,train,835,parkinson's disease
+ood_test,81,train,856,amyotrophic lateral sclerosis
+ood_test,82,train,862,melanoma
+ood_test,83,train,871,amyotrophic lateral sclerosis
+ood_test,84,train,886,alzheimer's disease
+ood_test,85,train,887,spinocerebellar ataxia
+ood_test,86,train,898,amyotrophic lateral sclerosis
+ood_test,87,train,923,alzheimer's disease
+ood_test,88,train,946,alzheimer's disease
+ood_test,89,train,950,amyotrophic lateral sclerosis
+ood_test,90,train,956,alzheimer's disease
+ood_test,91,train,975,spinocerebellar ataxia
+ood_test,92,train,1000,prion disease
+ood_test,93,train,1005,amyotrophic lateral sclerosis
+ood_test,94,train,1012,amyotrophic lateral sclerosis
+ood_test,95,train,1022,amyotrophic lateral sclerosis
+ood_test,96,train,1025,amyotrophic lateral sclerosis
+ood_test,97,train,1030,alzheimer's disease
+ood_test,98,train,1035,amyotrophic lateral sclerosis
+ood_test,99,train,1052,amyotrophic lateral sclerosis
+ood_test,100,train,1076,amyotrophic lateral sclerosis
+ood_test,101,train,1079,colorectal cancer
+ood_test,102,train,1101,alzheimer's disease
+ood_test,103,train,1116,spinocerebellar ataxia
+ood_test,104,train,1122,parkinson's disease
+ood_test,105,train,1128,amyotrophic lateral sclerosis
+ood_test,106,train,1138,amyotrophic lateral sclerosis
+ood_test,107,train,1142,melanoma
+ood_test,108,train,1147,melanoma
+ood_test,109,train,1153,spinocerebellar ataxia
+ood_test,110,train,1154,alzheimer's disease
+ood_test,111,val,4,colorectal cancer
+ood_test,112,val,8,amyotrophic lateral sclerosis
+ood_test,113,val,28,spinocerebellar ataxia
+ood_test,114,val,30,alzheimer's disease
+ood_test,115,val,34,parkinson's disease
+ood_test,116,val,36,creutzfeldt-jakob disease
+ood_test,117,val,52,amyotrophic lateral sclerosis
+ood_test,118,val,98,spinocerebellar ataxia
+ood_test,119,val,106,amyotrophic lateral sclerosis
+ood_test,120,val,115,alzheimer's disease
+ood_test,121,val,128,spinocerebellar ataxia
+ood_test,122,val,137,alzheimer's disease
+ood_test,123,val,142,melanoma
+ood_test,124,test,16,spinocerebellar ataxia
+ood_test,125,test,20,melanoma
+ood_test,126,test,27,melanoma
+ood_test,127,test,31,melanoma
+ood_test,128,test,36,creutzfeldt-jakob disease
+ood_test,129,test,50,amyotrophic lateral sclerosis
+ood_test,130,test,53,amyotrophic lateral sclerosis
+ood_test,131,test,65,parkinson's disease
+ood_test,132,test,87,amyotrophic lateral sclerosis
+ood_test,133,test,90,colorectal cancer
+ood_test,134,test,93,alzheimer's disease
+ood_test,135,test,96,spinocerebellar ataxia
+ood_test,136,test,100,alzheimer's disease
+ood_test,137,test,102,prion disease
+ood_test,138,test,104,amyotrophic lateral sclerosis
+ood_test,139,test,105,amyotrophic lateral sclerosis
+ood_test,140,test,112,amyotrophic lateral sclerosis
+ood_test,141,test,116,amyotrophic lateral sclerosis
+ood_test,142,test,119,amyotrophic lateral sclerosis
+ood_test,143,test,120,colorectal cancer
+ood_test,144,test,126,alzheimer's disease

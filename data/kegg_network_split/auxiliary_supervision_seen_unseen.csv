@@ -1,0 +1,291 @@
+split_file,row_index,paper_split,genome_in_training,status,edited_pair,answer,gene_in_question,ref_window_sha1,var_window_sha1
+ood_test_network_split.csv,0,held-out,yes,seen,C>T,amyotrophic lateral sclerosis,SOD1,bca86fe328ef,6fb397a80f7d
+ood_test_network_split.csv,1,held-out,yes,seen,A>C,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,ba2e7b62963c
+ood_test_network_split.csv,2,held-out,yes,seen,C>A,parkinson's disease,PRKN,db3e90dcf89b,797cf30692c2
+ood_test_network_split.csv,3,held-out,yes,seen,C>T,creutzfeldt-jakob disease,PRNP,991c3c2155a0,05ec63f2fdff
+ood_test_network_split.csv,4,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,7d04ce85cbe4,3cf2bba01b4f
+ood_test_network_split.csv,5,held-out,yes,seen,T>A,parkinson's disease,PRKN,64be2e454294,4376518c2231
+ood_test_network_split.csv,6,held-out,yes,seen,C>T,alzheimer's disease,PSEN1,dddd4bc92646,1e05b052f574
+ood_test_network_split.csv,7,held-out,yes,seen,C>A,amyotrophic lateral sclerosis,SOD1,9e852d0cbba1,bebbdaaf1ac6
+ood_test_network_split.csv,8,held-out,no,fully_unseen,G>A,melanoma,NRAS,e23818da2099,39a77dba5027
+ood_test_network_split.csv,9,held-out,yes,seen,T>C,amyotrophic lateral sclerosis,SOD1,1d2c93382764,7480eade357c
+ood_test_network_split.csv,10,held-out,yes,seen,T>G,amyotrophic lateral sclerosis,SOD1,7a37e1492054,7f72dccfde84
+ood_test_network_split.csv,11,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,bc96b9b5e5f1
+ood_test_network_split.csv,12,held-out,yes,seen,G>C,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,49ea59707f26
+ood_test_network_split.csv,13,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,db704db697fe,c05859c993b1
+ood_test_network_split.csv,14,held-out,yes,seen,A>T,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,741af672cfa1
+ood_test_network_split.csv,15,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,db704db697fe,c05859c993b1
+ood_test_network_split.csv,16,held-out,yes,seen,G>C,parkinson's disease,PRKN,648652475d40,6a05df7e5942
+ood_test_network_split.csv,17,held-out,yes,seen,T>G,prion disease,PRNP,0d81b9378e29,33a67d627c1f
+ood_test_network_split.csv,18,held-out,yes,seen,G>T,prion disease,PRNP,6af291a58d42,4b1f2cf87a44
+ood_test_network_split.csv,19,held-out,yes,seen,G>C,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,49ea59707f26
+ood_test_network_split.csv,20,held-out,yes,seen,G>T,spinocerebellar ataxia,CACNA1A,3541ec8adfd1,d3e8702e71ad
+ood_test_network_split.csv,21,held-out,yes,seen,C>G,spinocerebellar ataxia,CACNA1A,d9ad76e07b22,97fd5ca97938
+ood_test_network_split.csv,22,held-out,yes,seen,T>C,spinocerebellar ataxia,CACNA1A,47bc7e1b21dd,fb073c571de3
+ood_test_network_split.csv,23,held-out,yes,seen,A>T,alzheimer's disease,PSEN1,3e2cb4bd0437,7efbc2b09b65
+ood_test_network_split.csv,24,held-out,yes,seen,T>C,melanoma,NRAS,bddaf78e05a3,0893afa0e328
+ood_test_network_split.csv,25,held-out,yes,seen,G>C,prion disease,PRNP,b787828b8e79,d4378d65aeed
+ood_test_network_split.csv,26,held-out,no,fully_unseen,A>T,spinocerebellar ataxia,CACNA1A,20f2888319fd,51f37e4fa558
+ood_test_network_split.csv,27,held-out,yes,seen,A>C,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,ba2e7b62963c
+ood_test_network_split.csv,28,held-out,yes,seen,C>T,melanoma,NRAS,01a16e71d9dd,a46af0e8a5a5
+ood_test_network_split.csv,29,held-out,yes,seen,G>T,alzheimer's disease,PSEN1,4e91ab091cd1,d544f7bef3e6
+ood_test_network_split.csv,30,held-out,yes,seen,G>T,parkinson's disease,PRKN,b29c48b121bd,72b30de6c4cd
+ood_test_network_split.csv,31,held-out,yes,seen,A>C,spinocerebellar ataxia,CACNA1A,7b087c060b8e,0f55e7b25afc
+ood_test_network_split.csv,32,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,ba2d95e71f0e,e4810d4a88c1
+ood_test_network_split.csv,33,held-out,yes,seen,A>G,alzheimer's disease,PSEN1,2b92da505bb5,a90a0df70d7a
+ood_test_network_split.csv,34,held-out,no,fully_unseen,A>C,alzheimer's disease,PSEN2,b7172d5d16db,8dbac0fe0494
+ood_test_network_split.csv,35,held-out,yes,seen,T>C,melanoma,NRAS,50ec132965c9,9aa864b5333b
+ood_test_network_split.csv,36,held-out,yes,seen,A>T,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,741af672cfa1
+ood_test_network_split.csv,37,held-out,yes,seen,A>C,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,ba2e7b62963c
+ood_test_network_split.csv,38,held-out,yes,seen,C>T,creutzfeldt-jakob disease,PRNP,991c3c2155a0,bb6ce9af509f
+ood_test_network_split.csv,39,held-out,yes,seen,T>C,melanoma,NRAS,50ec132965c9,9a8c3b968df5
+ood_test_network_split.csv,40,held-out,yes,seen,C>A,spinocerebellar ataxia,CACNA1A,7f942a0dabf9,1e7975093347
+ood_test_network_split.csv,41,held-out,yes,seen,C>T,prion disease,PRNP,f78765158088,fdf60ea96b40
+ood_test_network_split.csv,42,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,042ec7ca5337,6b586a2cc8f2
+ood_test_network_split.csv,43,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,aa5aadb1c4c0,c96521ca889c
+ood_test_network_split.csv,44,held-out,no,new_variant_at_trained_locus,T>C,melanoma,NRAS,bddaf78e05a3,e3b9fc9b58c1
+ood_test_network_split.csv,45,held-out,no,fully_unseen,C>G,alzheimer's disease,PSEN2,1c4c014b7350,a1ebbcd3eb87
+ood_test_network_split.csv,46,held-out,yes,seen,A>G,parkinson's disease,PRKN,880c45b5b0f4,82648206f502
+ood_test_network_split.csv,47,held-out,yes,seen,T>A,amyotrophic lateral sclerosis,SOD1,1627e42b854a,3b8608951954
+ood_test_network_split.csv,48,held-out,yes,seen,A>G,amyotrophic lateral sclerosis,SOD1,6635dbf80353,ca07dcd0c5b3
+ood_test_network_split.csv,49,held-out,yes,seen,C>G,parkinson's disease,PRKN,44ced1c8f39d,b7a841906f41
+ood_test_network_split.csv,50,held-out,yes,seen,G>A,melanoma,NRAS,44b991affab7,bccd8fc71bda
+ood_test_network_split.csv,51,held-out,yes,seen,G>A,prion disease,PRNP,6af291a58d42,170bf92a967d
+ood_test_network_split.csv,52,held-out,yes,seen,C>T,amyotrophic lateral sclerosis,SOD1,bca86fe328ef,6fb397a80f7d
+ood_test_network_split.csv,53,held-out,yes,seen,T>G,parkinson's disease,PRKN,64be2e454294,e882c4f661f2
+ood_test_network_split.csv,54,held-out,yes,seen,T>C,amyotrophic lateral sclerosis,SOD1,1d2c93382764,7480eade357c
+ood_test_network_split.csv,55,held-out,yes,seen,T>G,parkinson's disease,PRKN,cf31e3ca76af,6086fdba4ec0
+ood_test_network_split.csv,56,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,db704db697fe,c05859c993b1
+ood_test_network_split.csv,57,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,aa5aadb1c4c0,c96521ca889c
+ood_test_network_split.csv,58,held-out,yes,seen,C>A,spinocerebellar ataxia,CACNA1A,d74a73060fa3,030877b5e503
+ood_test_network_split.csv,59,held-out,yes,seen,C>A,colorectal cancer,KRAS,ed64c249c1c9,10198cbdbb08
+ood_test_network_split.csv,60,held-out,yes,seen,T>C,prion disease,PRNP,acb9eb83ee4b,6a68bd68e739
+ood_test_network_split.csv,61,held-out,yes,seen,T>G,amyotrophic lateral sclerosis,SOD1,7a37e1492054,7f72dccfde84
+ood_test_network_split.csv,62,held-out,yes,seen,T>A,amyotrophic lateral sclerosis,SOD1,1627e42b854a,3b8608951954
+ood_test_network_split.csv,63,held-out,yes,seen,T>A,alzheimer's disease,PSEN1,87983d7f0da3,958ac4ec960b
+ood_test_network_split.csv,64,held-out,yes,seen,C>T,parkinson's disease,PRKN,1f758d0656c0,5b168deb2376
+ood_test_network_split.csv,65,held-out,yes,seen,T>C,prion disease,PRNP,2d1c04a01247,50bbcfb996b4
+ood_test_network_split.csv,66,held-out,yes,seen,T>A,amyotrophic lateral sclerosis,SOD1,1627e42b854a,3b8608951954
+ood_test_network_split.csv,67,held-out,yes,seen,G>C,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,49ea59707f26
+ood_test_network_split.csv,68,held-out,yes,seen,A>T,alzheimer's disease,PSEN1,65b7fe5d1e12,433f55dca340
+ood_test_network_split.csv,69,held-out,yes,seen,C>A,prion disease,PRNP,f78765158088,b8fc6171b1c4
+ood_test_network_split.csv,70,held-out,yes,seen,C>A,amyotrophic lateral sclerosis,SOD1,9e852d0cbba1,bebbdaaf1ac6
+ood_test_network_split.csv,71,held-out,yes,seen,A>G,amyotrophic lateral sclerosis,SOD1,6635dbf80353,ca07dcd0c5b3
+ood_test_network_split.csv,72,held-out,yes,seen,C>T,amyotrophic lateral sclerosis,SOD1,bca86fe328ef,6fb397a80f7d
+ood_test_network_split.csv,73,held-out,yes,seen,T>G,alzheimer's disease,PSEN1,87983d7f0da3,98cb911fa88b
+ood_test_network_split.csv,74,held-out,yes,seen,T>G,amyotrophic lateral sclerosis,SOD1,7a37e1492054,7f72dccfde84
+ood_test_network_split.csv,75,held-out,yes,seen,T>C,amyotrophic lateral sclerosis,SOD1,1d2c93382764,7480eade357c
+ood_test_network_split.csv,76,held-out,yes,seen,A>T,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,741af672cfa1
+ood_test_network_split.csv,77,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,aa5aadb1c4c0,c96521ca889c
+ood_test_network_split.csv,78,held-out,yes,seen,G>C,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,49ea59707f26
+ood_test_network_split.csv,79,held-out,yes,seen,G>A,alzheimer's disease,PSEN1,4e91ab091cd1,296c8f5fc529
+ood_test_network_split.csv,80,held-out,yes,seen,G>A,parkinson's disease,PRKN,b29c48b121bd,aab3452ee74d
+ood_test_network_split.csv,81,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,ba2d95e71f0e,e4810d4a88c1
+ood_test_network_split.csv,82,held-out,yes,seen,T>A,melanoma,NRAS,50ec132965c9,6e563b9a874f
+ood_test_network_split.csv,83,held-out,yes,seen,A>T,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,741af672cfa1
+ood_test_network_split.csv,84,held-out,no,fully_unseen,G>A,alzheimer's disease,PSEN2,d7b9071df990,65506e305705
+ood_test_network_split.csv,85,held-out,yes,seen,T>C,spinocerebellar ataxia,CACNA1A,2baa6c40c38c,567b3b5ac490
+ood_test_network_split.csv,86,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,7d04ce85cbe4,3cf2bba01b4f
+ood_test_network_split.csv,87,held-out,yes,seen,A>C,alzheimer's disease,PSEN1,2b92da505bb5,671060bfe396
+ood_test_network_split.csv,88,held-out,yes,seen,C>G,alzheimer's disease,PSEN1,dddd4bc92646,747339dbb6ca
+ood_test_network_split.csv,89,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,042ec7ca5337,6b586a2cc8f2
+ood_test_network_split.csv,90,held-out,yes,seen,C>T,alzheimer's disease,PSEN1,32c1cce4aac2,6bb4da37e16b
+ood_test_network_split.csv,91,held-out,no,new_variant_at_trained_locus,C>T,spinocerebellar ataxia,CACNA1A,d9ad76e07b22,1e2db696df57
+ood_test_network_split.csv,92,held-out,yes,seen,C>G,prion disease,PRNP,410f8404011d,ac0a7bd2ee49
+ood_test_network_split.csv,93,held-out,yes,seen,C>A,amyotrophic lateral sclerosis,SOD1,9e852d0cbba1,bebbdaaf1ac6
+ood_test_network_split.csv,94,held-out,yes,seen,C>A,amyotrophic lateral sclerosis,SOD1,9e852d0cbba1,bebbdaaf1ac6
+ood_test_network_split.csv,95,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,042ec7ca5337,6b586a2cc8f2
+ood_test_network_split.csv,96,held-out,yes,seen,A>G,amyotrophic lateral sclerosis,SOD1,6635dbf80353,ca07dcd0c5b3
+ood_test_network_split.csv,97,held-out,yes,seen,C>A,alzheimer's disease,PSEN1,9601daeabb82,3efbb96188a9
+ood_test_network_split.csv,98,held-out,yes,seen,T>C,amyotrophic lateral sclerosis,SOD1,1d2c93382764,7480eade357c
+ood_test_network_split.csv,99,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,bc96b9b5e5f1
+ood_test_network_split.csv,100,held-out,yes,seen,T>G,amyotrophic lateral sclerosis,SOD1,7a37e1492054,7f72dccfde84
+ood_test_network_split.csv,101,held-out,yes,seen,C>T,colorectal cancer,KRAS,ed64c249c1c9,651cb6124d96
+ood_test_network_split.csv,102,held-out,no,fully_unseen,A>G,alzheimer's disease,PSEN2,b7172d5d16db,2b422666ad15
+ood_test_network_split.csv,103,held-out,yes,seen,C>T,spinocerebellar ataxia,CACNA1A,45645cabfc6b,df5e8874f84e
+ood_test_network_split.csv,104,held-out,yes,seen,A>C,parkinson's disease,PRKN,ed92a571e34f,1226c81549bc
+ood_test_network_split.csv,105,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,bc96b9b5e5f1
+ood_test_network_split.csv,106,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,ba2d95e71f0e,e4810d4a88c1
+ood_test_network_split.csv,107,held-out,yes,seen,T>G,melanoma,NRAS,50ec132965c9,3425d40eaeb4
+ood_test_network_split.csv,108,held-out,yes,seen,T>A,melanoma,NRAS,bddaf78e05a3,4fac928a6b2f
+ood_test_network_split.csv,109,held-out,yes,seen,G>A,spinocerebellar ataxia,CACNA1A,8d4d5e8cadcc,85941937a9e9
+ood_test_network_split.csv,110,held-out,no,fully_unseen,A>T,alzheimer's disease,PSEN2,b7172d5d16db,e9e452a4141f
+ood_test_network_split.csv,111,held-out,yes,seen,C>G,colorectal cancer,KRAS,ed64c249c1c9,585e1a6c785c
+ood_test_network_split.csv,112,held-out,yes,seen,T>A,amyotrophic lateral sclerosis,SOD1,1627e42b854a,3b8608951954
+ood_test_network_split.csv,113,held-out,yes,seen,A>G,spinocerebellar ataxia,CACNA1A,963f26b6f5ac,03ec5bb9297b
+ood_test_network_split.csv,114,held-out,yes,seen,G>T,alzheimer's disease,PSEN1,2474eeae435c,9fa7c9ddf764
+ood_test_network_split.csv,115,held-out,yes,seen,T>C,parkinson's disease,PRKN,143cfc955012,9540c19f3ed8
+ood_test_network_split.csv,116,held-out,yes,seen,T>C,creutzfeldt-jakob disease,PRNP,624a15e1aa54,48868b42657b
+ood_test_network_split.csv,117,held-out,yes,seen,A>G,amyotrophic lateral sclerosis,SOD1,6635dbf80353,ca07dcd0c5b3
+ood_test_network_split.csv,118,held-out,yes,seen,T>G,spinocerebellar ataxia,CACNA1A,2baa6c40c38c,84fc00140c5d
+ood_test_network_split.csv,119,held-out,yes,seen,A>C,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,ba2e7b62963c
+ood_test_network_split.csv,120,held-out,yes,seen,G>T,alzheimer's disease,PSEN1,6c20bb484891,e5056d933267
+ood_test_network_split.csv,121,held-out,yes,seen,G>C,spinocerebellar ataxia,CACNA1A,f53f548ba65f,8d495645ed12
+ood_test_network_split.csv,122,held-out,yes,seen,A>T,alzheimer's disease,PSEN1,ace1a78af498,9999a5e9b6f9
+ood_test_network_split.csv,123,held-out,yes,seen,C>G,melanoma,NRAS,01a16e71d9dd,ff6c4f6e0530
+ood_test_network_split.csv,124,held-out,yes,seen,C>T,spinocerebellar ataxia,CACNA1A,58ab962aff22,91d9e775d869
+ood_test_network_split.csv,125,held-out,yes,seen,G>C,melanoma,NRAS,44b991affab7,3daec5d0100f
+ood_test_network_split.csv,126,held-out,yes,seen,G>T,melanoma,NRAS,44b991affab7,ab0510c639c5
+ood_test_network_split.csv,127,held-out,yes,seen,C>A,melanoma,NRAS,01a16e71d9dd,594275fd2050
+ood_test_network_split.csv,128,held-out,yes,seen,C>T,creutzfeldt-jakob disease,PRNP,991c3c2155a0,ff1a31597c43
+ood_test_network_split.csv,129,held-out,yes,seen,C>T,amyotrophic lateral sclerosis,SOD1,bca86fe328ef,6fb397a80f7d
+ood_test_network_split.csv,130,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,7d04ce85cbe4,3cf2bba01b4f
+ood_test_network_split.csv,131,held-out,yes,seen,A>T,parkinson's disease,PRKN,880c45b5b0f4,9394aa40b649
+ood_test_network_split.csv,132,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,bc96b9b5e5f1
+ood_test_network_split.csv,133,held-out,yes,seen,C>T,colorectal cancer,NRAS,805c838d0bef,6581732b801b
+ood_test_network_split.csv,134,held-out,yes,seen,T>C,alzheimer's disease,PSEN1,87983d7f0da3,97fe0af6669d
+ood_test_network_split.csv,135,held-out,yes,seen,G>T,spinocerebellar ataxia,CACNA1A,f53f548ba65f,8672442f57d9
+ood_test_network_split.csv,136,held-out,no,fully_unseen,C>T,alzheimer's disease,PSEN2,1c4c014b7350,b3792962088c
+ood_test_network_split.csv,137,held-out,yes,seen,A>G,prion disease,PRNP,cde3ae67d330,bd1d853d4e95
+ood_test_network_split.csv,138,held-out,yes,seen,G>A,amyotrophic lateral sclerosis,SOD1,db704db697fe,c05859c993b1
+ood_test_network_split.csv,139,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,7d04ce85cbe4,3cf2bba01b4f
+ood_test_network_split.csv,140,held-out,yes,seen,C>G,amyotrophic lateral sclerosis,SOD1,ba2d95e71f0e,e4810d4a88c1
+ood_test_network_split.csv,141,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,042ec7ca5337,6b586a2cc8f2
+ood_test_network_split.csv,142,held-out,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,aa5aadb1c4c0,c96521ca889c
+ood_test_network_split.csv,143,held-out,yes,seen,C>G,colorectal cancer,NRAS,805c838d0bef,fbacd6335180
+ood_test_network_split.csv,144,held-out,yes,seen,G>C,alzheimer's disease,PSEN1,9164277daeea,72f57c4442ba
+id_test_network_split.csv,0,validation,yes,seen,G>A,amyotrophic lateral sclerosis,TARDBP,6ba0ad5cb322,673ef5c44493
+id_test_network_split.csv,1,validation,no,fully_unseen,A>T,spinocerebellar ataxia,CACNA1A,20f2888319fd,51f37e4fa558
+id_test_network_split.csv,2,validation,yes,seen,G>T,parkinson's disease,PRKN,b29c48b121bd,72b30de6c4cd
+id_test_network_split.csv,3,validation,yes,seen,T>C,parkinson's disease,PARK7,98a41893ed3e,f047145341ce
+id_test_network_split.csv,4,validation,yes,seen,C>T,prion disease,PRNP,f78765158088,fdf60ea96b40
+id_test_network_split.csv,5,validation,yes,seen,A>C,parkinson's disease,PRKN,ed92a571e34f,1226c81549bc
+id_test_network_split.csv,6,validation,no,fully_unseen,G>A,amyotrophic lateral sclerosis,GLE1,a92d27c6a31f,6778808c411b
+id_test_network_split.csv,7,validation,yes,seen,G>A,alzheimer's disease,APP,f284d98a90f0,8181df891163
+id_test_network_split.csv,8,validation,no,new_variant_at_trained_locus,A>G,von hippel-lindau syndrome,VHL,7c2d78bff7ed,42d535d559b9
+id_test_network_split.csv,9,validation,yes,seen,C>T,parkinson's disease,PRKN,1f758d0656c0,5b168deb2376
+id_test_network_split.csv,10,validation,no,fully_unseen,C>T,spinocerebellar ataxia,PRKCG,9a999ac25d0d,2e706e97b24f
+id_test_network_split.csv,11,validation,yes,seen,C>A,parkinson's disease,PRKN,db3e90dcf89b,797cf30692c2
+id_test_network_split.csv,12,validation,yes,seen,C>A,alzheimer's disease,PSEN1,9601daeabb82,3efbb96188a9
+id_test_network_split.csv,13,validation,yes,seen,C>G,alzheimer's disease,APP,36c9fe6ff0bf,aa141fb0fe7d
+id_test_network_split.csv,14,validation,no,new_variant_at_trained_locus,A>T,papillary renal cell carcinoma,MET,461e59ba3bb0,1bb56cc84092
+id_test_network_split.csv,15,validation,yes,seen,T>C,spinocerebellar ataxia,ATXN3,b04923e84ed5,10fbdb3211df
+id_test_network_split.csv,16,validation,yes,seen,T>G,non-small cell lung cancer,EGFR,68ce53e8b4dd,875227831bde
+id_test_network_split.csv,17,validation,yes,seen,T>C,parkinson's disease,PINK1,6e1d9f5fcbaf,6401a1728512
+id_test_network_split.csv,18,validation,yes,seen,A>T,cushing syndrome,GNAS,f10a8b0b22b7,9a9ed99ff59c
+id_test_network_split.csv,19,validation,no,new_variant_at_trained_locus,A>T,renal cell carcinoma,MET,461e59ba3bb0,1bb56cc84092
+id_test_network_split.csv,20,validation,no,fully_unseen,T>A,amyotrophic lateral sclerosis,GLE1,49e3ac642dcc,ecb4d629311d
+id_test_network_split.csv,21,validation,no,fully_unseen,T>G,amyotrophic lateral sclerosis,TUBA4A,4fbc6010a5af,977acb780fff
+id_test_network_split.csv,22,validation,yes,seen,A>T,alzheimer's disease,PSEN1,65b7fe5d1e12,433f55dca340
+id_test_network_split.csv,23,validation,no,new_variant_at_trained_locus,C>G,amyotrophic lateral sclerosis,DCTN1,4007aada1a42,a68af40a1e5d
+id_test_network_split.csv,24,validation,no,fully_unseen,G>A,gaucher disease,GBA1,f571891671be,035be386653a
+id_test_network_split.csv,25,validation,no,new_variant_at_trained_locus,C>A,amyotrophic lateral sclerosis,VCP,05c672b20272,664703a3abae
+id_test_network_split.csv,26,validation,yes,seen,C>G,alzheimer's disease,APP,36c9fe6ff0bf,aa141fb0fe7d
+id_test_network_split.csv,27,validation,no,new_variant_at_trained_locus,C>G,pituitary adenoma,AIP,5ed45c56d2cf,010d7f07f2fe
+id_test_network_split.csv,28,validation,no,new_variant_at_trained_locus,A>C,spinocerebellar ataxia,PDYN,8cdb70a6de16,e10a6446ba9f
+id_test_network_split.csv,29,validation,no,new_variant_at_trained_locus,A>T,adenine phosphoribosyltransferase deficiency,APRT,9a1c7dd6991f,0849dfc9b975
+id_test_network_split.csv,30,validation,yes,seen,C>A,amyotrophic lateral sclerosis,SOD1,9e852d0cbba1,bebbdaaf1ac6
+id_test_network_split.csv,31,validation,no,fully_unseen,G>A,colorectal cancer,BAX,93302f736eb0,72f1161cacf9
+id_test_network_split.csv,32,validation,yes,seen,C>T,prion disease,PRNP,991c3c2155a0,bb6ce9af509f
+id_test_network_split.csv,33,validation,yes,seen,C>G,prion disease,PRNP,410f8404011d,ac0a7bd2ee49
+id_test_network_split.csv,34,validation,no,fully_unseen,C>T,prostate cancer,AR,6f73719789ff,5c9c393ca7dd
+id_test_network_split.csv,35,validation,yes,seen,C>T,parkinson's disease,PINK1,8296924be9d5,4bd465837571
+id_test_network_split.csv,36,validation,no,fully_unseen,G>C,gaucher disease,PSAP,1af0d477522f,66abefe719f6
+id_test_network_split.csv,37,validation,yes,seen,G>C,chronic myeloid leukemia,ABL1,188d37128ca9,6eb13a393c12
+id_test_network_split.csv,38,validation,no,new_variant_at_trained_locus,A>T,gaucher disease,GBA1,b6f167d86332,315048a01e8b
+id_test_network_split.csv,39,validation,no,fully_unseen,G>A,amyotrophic lateral sclerosis,SQSTM1,9db1340bd53c,fc1edd6ca68d
+id_test_network_split.csv,40,validation,yes,seen,C>A,alzheimer's disease,APP,36c9fe6ff0bf,6294831c65bc
+id_test_network_split.csv,41,validation,yes,seen,G>T,amyotrophic lateral sclerosis,SOD1,aa5aadb1c4c0,c96521ca889c
+id_test_network_split.csv,42,validation,no,new_variant_at_trained_locus,T>G,colorectal cancer,TGFBR2,a71c5f292947,135eeb536f83
+id_test_network_split.csv,43,validation,yes,seen,G>T,alzheimer's disease,PSEN1,6c20bb484891,e5056d933267
+id_test_network_split.csv,44,validation,no,fully_unseen,C>T,colorectal cancer,CTNNB1,cc6c7e245fed,6daab7374656
+id_test_network_split.csv,45,validation,yes,seen,T>C,alzheimer's disease,PSEN1,87983d7f0da3,97fe0af6669d
+id_test_network_split.csv,46,validation,yes,seen,C>T,huntington's disease,HTT,be6202ebdfd3,744b44b0d704
+id_test_network_split.csv,47,validation,no,new_variant_at_trained_locus,A>C,amyotrophic lateral sclerosis,TBK1,59b2a351cc96,e633b5f5f73c
+id_test_network_split.csv,48,validation,yes,seen,G>C,non-small cell lung cancer,ALK,e06e0099fe01,6ef9ee65e9f7
+id_test_network_split.csv,49,validation,no,new_variant_at_trained_locus,C>T,cushing syndrome,USP8,bf332ddbd996,168776b5979a
+id_test_network_split.csv,50,validation,no,new_variant_at_trained_locus,A>G,hepatocellular carcinoma,PIK3CA,465a2196f04d,12bb9ead0982
+id_test_network_split.csv,51,validation,no,new_variant_at_trained_locus,T>C,amyotrophic lateral sclerosis,DCTN1,e9b65e3f6700,e923ac299a28
+id_test_network_split.csv,52,validation,yes,seen,G>T,non-small cell lung cancer,ALK,d0784e002713,cf866edc9f70
+id_test_network_split.csv,53,validation,yes,seen,T>G,prion disease,PRNP,0d81b9378e29,33a67d627c1f
+id_test_network_split.csv,54,validation,no,fully_unseen,G>T,gaucher disease,GBA1,09f112b670b6,707ef831c1c2
+id_test_network_split.csv,55,validation,yes,seen,T>G,prion disease,PRNP,0d81b9378e29,33a67d627c1f
+id_test_network_split.csv,56,validation,yes,seen,G>T,prion disease,PRNP,6af291a58d42,4b1f2cf87a44
+id_test_network_split.csv,57,validation,yes,seen,G>A,non-small cell lung cancer,EGFR,6e03bf78787e,10970fb82ace
+id_test_network_split.csv,58,validation,yes,seen,C>T,creutzfeldt-jakob disease,PRNP,991c3c2155a0,05ec63f2fdff
+id_test_network_split.csv,59,validation,yes,seen,T>G,alzheimer's disease,PSEN1,87983d7f0da3,98cb911fa88b
+id_test_network_split.csv,60,validation,no,fully_unseen,G>A,melanoma,NRAS,e23818da2099,39a77dba5027
+id_test_network_split.csv,61,validation,yes,seen,A>T,chronic myeloid leukemia,ABL1,6e0c74d897de,5c6b086d9455
+id_test_network_split.csv,62,validation,no,fully_unseen,A>G,glioblastoma multiforme,PTEN,b03e09150fa8,21c06dfaaa13
+id_test_network_split.csv,63,validation,no,fully_unseen,A>G,lesch-nyhan syndrome,HPRT1,29bf94d10e14,4bd4cfa0974f
+id_test_network_split.csv,64,validation,no,fully_unseen,A>T,lesch-nyhan syndrome,HPRT1,fd5bf90e9fca,7225dae10d8f
+id_test_network_split.csv,65,validation,yes,seen,C>T,huntington's disease,HTT,be6202ebdfd3,744b44b0d704
+id_test_network_split.csv,66,validation,yes,seen,G>T,non-small cell lung cancer,ALK,d0784e002713,cf866edc9f70
+id_test_network_split.csv,67,validation,yes,seen,A>C,amyotrophic lateral sclerosis,SOD1,a7c6c1419b80,ba2e7b62963c
+id_test_network_split.csv,68,validation,no,fully_unseen,G>T,urothelial carcinoma,RB1,239b080c05d1,89f305580a61
+id_test_network_split.csv,69,validation,no,new_variant_at_trained_locus,C>T,primary aldosteronism,CACNA1H,1770c211946b,cb53507da4bf
+id_test_network_split.csv,70,validation,yes,seen,G>A,huntington's disease,HTT,2747cd7c99dd,b5bd98e8fb4c
+id_test_network_split.csv,71,validation,no,new_variant_at_trained_locus,C>G,melanoma,BRAF,34644285542e,2397ff351f82
+id_test_network_split.csv,72,validation,yes,seen,C>T,cushing syndrome,PRKAR1A,bbbc6dada78a,1d7af6f5ab8f
+id_test_network_split.csv,73,validation,yes,seen,C>T,renal cell carcinoma,MET,43dd0dab29bb,49c20cd4da4e
+id_test_network_split.csv,74,validation,yes,seen,G>C,amyotrophic lateral sclerosis,TARDBP,f75f9b0bc0d5,7d4160786ec3
+id_test_network_split.csv,75,validation,no,fully_unseen,C>A,glioblastoma multiforme,PTEN,2358b92a74dd,bc96be61bd93
+id_test_network_split.csv,76,validation,no,new_variant_at_trained_locus,C>T,parkinson's disease,LRRK2,1af992a57052,61e62c61a6f7
+id_test_network_split.csv,77,validation,yes,seen,T>G,alzheimer's disease,APP,28def2d98d6f,099dbecf8e18
+id_test_network_split.csv,78,validation,no,new_variant_at_trained_locus,C>T,spinocerebellar ataxia,CACNA1A,d9ad76e07b22,1e2db696df57
+id_test_network_split.csv,79,validation,no,fully_unseen,A>T,cushing syndrome,PDE11A,025206723af3,e73298b0e396
+id_test_network_split.csv,80,validation,yes,seen,T>G,alzheimer's disease,PSEN1,87983d7f0da3,98cb911fa88b
+id_test_network_split.csv,81,validation,yes,seen,A>G,cushing syndrome,GNAS,f10a8b0b22b7,10ac5ace261a
+id_test_network_split.csv,82,validation,no,new_variant_at_trained_locus,A>G,spinocerebellar ataxia,PRKCG,5b1a82e24340,c2232c7c67de
+id_test_network_split.csv,83,validation,no,new_variant_at_trained_locus,G>T,colorectal cancer,APC,8c4d449279b9,00d198e9025d
+id_test_network_split.csv,84,validation,no,fully_unseen,A>T,gaucher disease,GBA1,4b7e780ed9dd,399f52ed5166
+id_test_network_split.csv,85,validation,yes,seen,T>G,non-small cell lung cancer,EGFR,99771555626d,b6c02e2a2bd4
+id_test_network_split.csv,86,validation,no,new_variant_at_trained_locus,C>G,hepatocellular carcinoma,NFE2L2,74aea1813d89,bef6be56c4e1
+id_test_network_split.csv,87,validation,no,new_variant_at_trained_locus,G>T,pituitary adenoma,AIP,6f1fb1162d62,90280f2caa6a
+id_test_network_split.csv,88,validation,yes,seen,C>T,parkinson's disease,SNCA,8d1e74f26530,c90aa9b82338
+id_test_network_split.csv,89,validation,no,fully_unseen,T>C,amyotrophic lateral sclerosis,PFN1,79339cef4038,bb77bcf927bc
+id_test_network_split.csv,90,validation,no,fully_unseen,G>A,clear cell renal cell carcinoma,VHL,d2b6c7b26279,e7d87f4981a6
+id_test_network_split.csv,91,validation,yes,seen,C>T,spinocerebellar ataxia,ATXN3,ee02e2f01eaf,092df2db7a7e
+id_test_network_split.csv,92,validation,yes,seen,T>A,acute myeloid leukemia,FLT3,0502a5e98df5,612930ef7a15
+id_test_network_split.csv,93,validation,yes,seen,G>C,alzheimer's disease,APP,94a30b453cb6,686929f2e54f
+id_test_network_split.csv,94,validation,yes,seen,G>C,alzheimer's disease,APP,94a30b453cb6,686929f2e54f
+id_test_network_split.csv,95,validation,yes,seen,T>G,melanoma,CDKN2A,e39ad9ac0369,f923dddb8c8c
+id_test_network_split.csv,96,validation,yes,seen,G>A,thyroid cancer,RET,3a5a9f575ccc,77cfbcb8710f
+id_test_network_split.csv,97,validation,yes,seen,T>G,parkinson's disease,PRKN,cf31e3ca76af,6086fdba4ec0
+id_test_network_split.csv,98,validation,yes,seen,G>C,alzheimer's disease,PSEN1,9164277daeea,72f57c4442ba
+id_test_network_split.csv,99,validation,yes,seen,C>A,non-small cell lung cancer,EGFR,67a1a1a1f8cd,c47aa7abde2e
+id_test_network_split.csv,100,validation,yes,seen,A>G,parkinson's disease,PRKN,880c45b5b0f4,82648206f502
+id_test_network_split.csv,101,validation,no,fully_unseen,G>T,n-acetylglutamate synthase deficiency,NAGS,d27cea30d974,b20c5bd025fb
+id_test_network_split.csv,102,validation,no,new_variant_at_trained_locus,G>T,spinocerebellar ataxia,SPTBN2,5287ff3e0988,dd0996f9fa49
+id_test_network_split.csv,103,validation,yes,seen,C>T,non-small cell lung cancer,ALK,dd8a9bbfbc5b,4085f74cb7ed
+id_test_network_split.csv,104,validation,yes,seen,T>C,parkinson's disease,PARK7,98a41893ed3e,f047145341ce
+id_test_network_split.csv,105,validation,yes,seen,C>G,parkinson's disease,PRKN,44ced1c8f39d,b7a841906f41
+id_test_network_split.csv,106,validation,yes,seen,T>C,acute myeloid leukemia,FLT3,0502a5e98df5,93e5968e5cc8
+id_test_network_split.csv,107,validation,yes,seen,T>G,parkinson's disease,PRKN,64be2e454294,e882c4f661f2
+id_test_network_split.csv,108,validation,no,fully_unseen,C>A,amyotrophic lateral sclerosis,TARDBP,4e8e53aeeb33,32e42c5ca55d
+id_test_network_split.csv,109,validation,yes,seen,T>A,alzheimer's disease,APP,9e5b5f1121ea,583555a50b59
+id_test_network_split.csv,110,validation,yes,seen,G>C,papillary renal cell carcinoma,MET,cd5ab46ed5cd,b76ac24bbe02
+id_test_network_split.csv,111,validation,no,fully_unseen,C>A,amyotrophic lateral sclerosis,TARDBP,4e8e53aeeb33,32e42c5ca55d
+id_test_network_split.csv,112,validation,no,new_variant_at_trained_locus,C>G,spinocerebellar ataxia,ATXN1,2baeeefe642a,fc6a5280c36d
+id_test_network_split.csv,113,validation,yes,seen,G>A,parkinson's disease,PINK1,4d04030ae508,b53b9885566e
+id_test_network_split.csv,114,validation,no,fully_unseen,T>C,primary aldosteronism,ATP2B3,bedc797d5b61,e010b34ecd85
+id_test_network_split.csv,115,validation,no,fully_unseen,G>T,amyotrophic lateral sclerosis,GLE1,a92d27c6a31f,8d49f9288687
+id_test_network_split.csv,116,validation,yes,seen,G>C,amyotrophic lateral sclerosis,SOD1,e1269f0a82cf,49ea59707f26
+id_test_network_split.csv,117,validation,no,new_variant_at_trained_locus,T>C,primary aldosteronism,ATP1A1,afe2d4825375,1d6493c0beb0
+id_test_network_split.csv,118,validation,no,new_variant_at_trained_locus,T>C,spinocerebellar ataxia,KCND3,6d8f9d90fa91,7e65ab1150dd
+id_test_network_split.csv,119,validation,yes,seen,C>T,prion disease,PRNP,991c3c2155a0,ff1a31597c43
+id_test_network_split.csv,120,validation,yes,seen,T>C,spinocerebellar ataxia,ATXN3,b04923e84ed5,7f4329118afb
+id_test_network_split.csv,121,validation,yes,seen,A>T,alzheimer's disease,PSEN1,3e2cb4bd0437,7efbc2b09b65
+id_test_network_split.csv,122,validation,yes,seen,C>G,parkinson's disease,PRKN,44ced1c8f39d,b7a841906f41
+id_test_network_split.csv,123,validation,yes,seen,G>A,cushing syndrome,PRKAR1A,b4847dd436bf,acdbf7522640
+id_test_network_split.csv,124,validation,no,fully_unseen,G>A,amyotrophic lateral sclerosis,TUBA4A,00b9c09c2151,eb10fa7ee665
+id_test_network_split.csv,125,validation,no,fully_unseen,A>T,lesch-nyhan syndrome,HPRT1,140b9ddb4a3e,450a9576732b
+id_test_network_split.csv,126,validation,no,new_variant_at_trained_locus,T>A,von hippel-lindau syndrome,VHL,3f9217946183,6dc10b827e7b
+id_test_network_split.csv,127,validation,no,new_variant_at_trained_locus,T>C,melanoma,NRAS,bddaf78e05a3,e3b9fc9b58c1
+id_test_network_split.csv,128,validation,no,fully_unseen,T>C,glioblastoma multiforme,PTEN,b8ffd1b07a56,fbb180112686
+id_test_network_split.csv,129,validation,yes,seen,G>A,chronic myeloid leukemia,ABL1,892005a6c2e5,a3ddce2fac06
+id_test_network_split.csv,130,validation,no,fully_unseen,G>C,spinocerebellar ataxia,ATXN1,46388fb7132e,4fa2ec943165
+id_test_network_split.csv,131,validation,yes,seen,C>A,alzheimer's disease,APP,36c9fe6ff0bf,6294831c65bc
+id_test_network_split.csv,132,validation,yes,seen,T>A,alzheimer's disease,PSEN1,87983d7f0da3,958ac4ec960b
+id_test_network_split.csv,133,validation,yes,seen,T>G,parkinson's disease,PRKN,64be2e454294,e882c4f661f2
+id_test_network_split.csv,134,validation,yes,seen,T>C,amyotrophic lateral sclerosis,SOD1,1d2c93382764,7480eade357c
+id_test_network_split.csv,135,validation,yes,seen,C>T,huntington's disease,HTT,be6202ebdfd3,744b44b0d704
+id_test_network_split.csv,136,validation,yes,seen,G>C,amyotrophic lateral sclerosis,ERBB4,a9e636b1efe6,3a68cdb813c6
+id_test_network_split.csv,137,validation,yes,seen,G>C,melanoma,CDKN2A,d95edb4b976e,8325db3d1aab
+id_test_network_split.csv,138,validation,no,fully_unseen,G>A,von hippel-lindau syndrome,VHL,08c7ce39b599,2caebf387c6d
+id_test_network_split.csv,139,validation,yes,seen,C>A,acute myeloid leukemia,FLT3,dede9cdf6ed7,14b08ff27568
+id_test_network_split.csv,140,validation,yes,seen,C>T,huntington's disease,HTT,be6202ebdfd3,744b44b0d704
+id_test_network_split.csv,141,validation,no,fully_unseen,C>T,multiple endocrine neoplasia type 1,MEN1,f72cd787f664,e3be2b1dc7d9
+id_test_network_split.csv,142,validation,no,new_variant_at_trained_locus,T>A,colorectal cancer,TP53,8a6782b541ea,5ad7dd3d4f72
+id_test_network_split.csv,143,validation,yes,seen,C>T,parkinson's disease,PRKN,1f758d0656c0,5b168deb2376
+id_test_network_split.csv,144,validation,yes,seen,A>T,parkinson's disease,PINK1,2ef8d1040fac,16a046d21529
